@@ -1,0 +1,3350 @@
+{
+   "results":[
+      {
+         "hits":[
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/dragon-quest-builders-2-switch",
+               "title":"DRAGON QUEST BUILDERS 2",
+               "description":"Receive the following in-game items when you pre-purchase DRAGON QUEST BUILDERS 2 digitally. Offer expires 7/11/19 8:59 p.m. PT:\n\nornamental medicinal herb\nornamental chimaera wing\npixelated protagonist\npixelated prince\npixelated princess\nlegendary line art\nDragon Quest logo\nSoul Sigil block\nWater Sigil block\nMoon Sigil block\nStar Sigil block\nSun Sigil block\n\nTo stop the worshippers of an ancient evil, you must join forces with the mysterious Malroth and build a ravaged world into the realm of your dreams. In this RPG adventure, you’ll explore huge islands, gather and craft with materials, design towns, level them up, and defend them from monsters and bosses alongside townspeople. As you progress, you’ll unearth crafting and building recipes. Dash, glide, explore underwater, fast travel, and play in optional first-person perspective as you try to find them all. In the Isle of Awakening, you and up to three other Builders can explore together in local wireless*; or play online** together too.\nShare screenshots by posting them online through the Noticeboard, or visit other players’ islands and use the Magic Pencil to create a blueprint of a favorite creation.*** You can get recipes that let you craft the Legendary Builder’s outfit and the Dragonlord’s Throne by owning the original DRAGON QUEST BUILDERS game on the Nintendo Switch™ system. Why not adventure in style as you take quests to help those in need, engage in the daily lives of townspeople, and master the latest farming techniques? All in a day’s work for the Builder!&nbsp;",
+               "lastModified":1558562917668,
+               "id":"z2LogXrjNqjh8UunUwFROmFQIlQoPLoY",
+               "nsuid":"70010000009167",
+               "slug":"dragon-quest-builders-2-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/d/dragon-quest-builders-2-switch/Switch_DQBuilders2_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/d/dragon-quest-builders-2-switch/screenshot-gallery/Switch_DQBuilders2_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-07-12T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Role-Playing",
+                  "Action"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Alcohol Reference",
+                  "Comic Mischief",
+                  "Fantasy Violence",
+                  "Mild Blood",
+                  "Mild Language",
+                  "Suggestive Themes",
+                  "Users Interact"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "SQUARE ENIX CO., LTD."
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"94778adc-04b5-3273-b80f-48f254056a89",
+               "_highlightResult":{
+                  "title":{
+                     "value":"DRAGON QUEST BUILDERS 2",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"z2LogXrjNqjh8UunUwFROmFQIlQoPLoY",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000009167",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/super-mario-maker-2-switch",
+               "title":"Super Mario Maker 2",
+               "description":"Mario fans of the world, unite! Now you can play, create, and share* the side-scrolling Super Mario™ courses of your dreams in the Super Mario Maker™ 2 game, available exclusively on the Nintendo Switch™ system! Dive into the single-player Story Mode and play built-in courses to rebuild Princess Peach’s castle. Make your own courses, alone or together. And with a Nintendo Switch Online membership*, share your courses, access a near-endless supply made by others, enjoy online multiplayer, and more!\nA new side-scrolling Mario adventure that unleashes the creative potential of Super Mario Maker 2 awaits in Story Mode, which contains over 100 built-in courses. And in Course Maker, a wide range of parts, tools, and more are available so you can construct your own courses. Want coin-shooting cannons? Bowser riding on a giant Goomba? Cat Mario sliding down slopes to take out an army of baddies? Go for it! You call the shots. Pass a Joy-Con™ controller to a partner to build cooperatively on a single system!\n\nPower-up the fun even further with a Nintendo Switch Online membership, which gives you access to Course World and its wealth of online content and functionality. Track your rankings, share your creations, and leave comments after you’ve played courses. With a Nintendo Switch Online membership, you can also tackle Endless Challenge, save online courses locally for later offline play, enjoy online multiplayer with players both near and far, and customize how you appear to others by dressing your Mii™ character with fun accessories!",
+               "lastModified":1558113070465,
+               "id":"9IrXeJEkSL89jJ2YoX1NiiuGQa_EXLPn",
+               "nsuid":"70010000018694",
+               "slug":"super-mario-maker-2-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/super-mario-maker-2-switch/Switch_SuperMarioMaker2_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/s/super-mario-maker-2-switch/screenshot-gallery/Switch_SuperMarioMaker2_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-06-28T00:00:00.000-07:00",
+               "characters":[
+                  "Mario",
+                  "Mii"
+               ],
+               "categories":[
+                  "Action",
+                  "Platformer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence",
+                  "Users Interact"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"f9c03f6a-ea1b-3874-8776-fee27daf45e3",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Super Mario Maker 2",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"9IrXeJEkSL89jJ2YoX1NiiuGQa_EXLPn",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000018694",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/super-mario-maker-2-plus-nintendo-switch-online-bundle",
+               "title":"Super Mario Maker 2 + Nintendo Switch Online Bundle",
+               "description":"Mario fans of the world, unite! Now you can play, create, and share* the side-scrolling Super Mario™ courses of your dreams in the Super Mario Maker™ 2 game, available exclusively on the Nintendo Switch™ system! Dive into the single-player Story Mode and play built-in courses to rebuild Princess Peach’s castle. Make your own courses, alone or together. And with a Nintendo Switch Online membership*, share your courses, access a near-endless supply made by others, enjoy online multiplayer, and more!\nIf you’re not already a Nintendo Switch Online member, this Super Mario Maker 2 + Nintendo Switch Online Bundle might be perfect for you—it’s available as both a physical and digital release and includes a 12-month Individual Membership for Nintendo Switch Online!\n\nA new side-scrolling Mario adventure that unleashes the creative potential of Super Mario Maker 2 awaits in Story Mode, which contains over 100 built-in courses. And in Course Maker, a wide range of parts, tools, and more are available so you can construct your own courses. Want coin-shooting cannons? Bowser riding on a giant Goomba? Cat Mario sliding down slopes to take out an army of baddies? Go for it! You call the shots. Pass a Joy-Con™ controller to a partner to build cooperatively on a single system!\n\nPower-up the fun even further with a Nintendo Switch Online membership, which gives you access to Course World and its wealth of online content and functionality. Track your rankings, share your creations, and leave comments after you’ve played courses. With a Nintendo Switch Online membership, you can also tackle Endless Challenge, save online courses locally for later offline play, enjoy online multiplayer with players both near and far, and customize how you appear to others by dressing your Mii™ character with fun accessories!",
+               "lastModified":1558113070465,
+               "nsuid":"70010000020523",
+               "slug":"super-mario-maker-2-plus-nintendo-switch-online-bundle",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/super-mario-maker-2-switch/Switch_SuperMarioMaker2_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/s/super-mario-maker-2-switch/screenshot-gallery/Switch_SuperMarioMaker2_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-06-28T00:00:00.000-07:00",
+               "characters":[
+                  "Mario",
+                  "Mii"
+               ],
+               "categories":[
+                  "Action",
+                  "Platformer"
+               ],
+               "msrp":69.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence",
+                  "Users Interact"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"0e8b2c09-35a5-3e55-b94b-85259499b85f",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Super Mario Maker 2 + Nintendo Switch Online Bundle",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000020523",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/boxboy-and-boxgirl-switch",
+               "title":"BOXBOY! + BOXGIRL!",
+               "description":"Think outside the box to save a world in peril! As Qbby or Qucy, you’ll create boxes and use them to surmount more than 270 puzzling stages—the most in the series to date! The box planet is plagued with obstacles, so jump, climb, drift, ride, and warp your way past them in three modes, complete with their own stories, stages, challenges, and techniques. You can even team up for a 2-player adventure starring both star-crossed boxes!\nA Tale for Two is a new mode in which—for the first time in the series—two players can work together to solve puzzles… Or one brave player can alternate between Qbby and Qucy! On top of that, there’s a third adventure starring Qudy, the tall one, and thanks to his extra-tall boxes, you’ll even have to think outside the rectangle! As you beat stages, you’ll uncover more, and if you’re efficient, earn medals you can use to score everything from boxy accessories to simple comics to helpful items at the in-game shop. Got your eye on a sweet sailor costume? Then try Balloon Challenge: if you get all ten balloons before the time runs out, you’ll score extra medals!",
+               "lastModified":1558113070465,
+               "id":"sC_4kbyfK6reyfoZDVlem3z4WZA8v_lu",
+               "nsuid":"70010000018692",
+               "slug":"boxboy-and-boxgirl-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/b/boxboy-and-boxgirl-switch/Switch_BoxBoyBoxGirl_box_eShop.png",
+               "gallery":"5lcDNuaDE6Mk2J0b63iAqykMM9V2TMpd",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-04-26T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Puzzle",
+                  "Platformer"
+               ],
+               "msrp":9.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Fantasy Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Demo available"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "HAL Laboratory, Inc."
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$5 - $9.99",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"7826d910-ab4f-3b57-bac9-ff45cc888ec1",
+               "_highlightResult":{
+                  "title":{
+                     "value":"BOXBOY! + BOXGIRL!",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"sC_4kbyfK6reyfoZDVlem3z4WZA8v_lu",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000018692",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/yoshis-crafted-world-switch",
+               "title":"Yoshi's Crafted World",
+               "description":"As Yoshi, you’ll leap up high, gulp down enemies, and set out on a treasure hunt to find all the different collectables. On the flip side, stages can be played backwards, providing new perspectives to explore and new ways to locate some of the more craftily hidden items!\nIt all started when Kamek and Baby Bowser set out to steal a gem-set stone. Legend has it that this fabled artifact can grant the bearer their wildest dreams! But when the artifact’s gems are sent flying, it falls upon Yoshi and friends to find them. Luckily, saving the day can be cooperative and challenging. Pass a Joy-Con controller to a friend to team up as fellow Yoshis. Also, Mellow mode gives Yoshi wings for a breezier experience, which may come in handy! Finding all the flowers, coins, and Poochy Pups is no small feat! For extra protection, suit up in one of the handicraft costumes you can unlock in-game!\n\nExplore each stage and then find even more secrets by making your way through the stage backwards on the flip side!\nOvercome varied enemies and obstacles, like Zombie Guys, Skelesaurus, Ukiki, and Monty Mole as you seek out hidden collectables\nPass a Joy-Con controller to a friend for 2-player cooperative exploration\nClad Yoshi in collectable, protective, handicraft costumes as he makes his way through each stage",
+               "lastModified":1558113070465,
+               "id":"xL2fky2sE-ipFtbqsX25CwKX6thEyZQl",
+               "nsuid":"70010000000734",
+               "slug":"yoshis-crafted-world-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/y/yoshis-crafted-world-switch/Switch_YoshisCraftedWorld_box.png",
+               "gallery":"lqN2JhaDE6FxYySRJe7HFB_ZU2yJ5Ha5",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-03-28T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Platformer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Demo available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Good-Feel"
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"d1f441c5-7a1d-3c32-a661-03ee930b5847",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Yoshi's Crafted World",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"xL2fky2sE-ipFtbqsX25CwKX6thEyZQl",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000734",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/new-super-mario-bros-u-deluxe-switch",
+               "title":"New Super Mario Bros. U Deluxe",
+               "description":"Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!\nTwo games in one, for double the fun! Simple, straightforward controls, new playable characters optimized for younger and less-experienced players, and a wealth of bonus content—like a Hints gallery and helpful reference videos**—make this a perfect choice for anyone looking to introduce their family to the wonderful world of Mario. All a player needs is one Joy-Con™ controller, so two people can team up right out of the box! Tackle 164 platforming courses in the two main game modes and enjoy extra replayability with three additional game modes in which you can also play as a Mii™ character: Challenges, Boost Rush, and Coin Battle!",
+               "lastModified":1558113070465,
+               "id":"UUEoLaSJeN0jP6ZYzDGy1JzGzP_TBeMr",
+               "nsuid":"70010000006411",
+               "slug":"new-super-mario-bros-u-deluxe-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/n/new-super-mario-bros-u-deluxe-switch/Switch_NSMBU-DX_box.png",
+               "gallery":"Fma2QxaDE6YuvnZGVqM42-44sCtvDLYZ",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-01-10T00:00:00.000-08:00",
+               "characters":[
+                  "Mario",
+                  "Mii"
+               ],
+               "categories":[
+                  "Action",
+                  "Adventure",
+                  "Multiplayer",
+                  "Platformer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Comic Mischief"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"2d2a3033-b63d-394a-9081-1382342abbc1",
+               "_highlightResult":{
+                  "title":{
+                     "value":"New Super Mario Bros. U Deluxe",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"UUEoLaSJeN0jP6ZYzDGy1JzGzP_TBeMr",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000006411",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/super-smash-bros-switch",
+               "title":"Super Smash Bros. Ultimate",
+               "description":"Purchase the&nbsp;Super Smash Bros. Ultimate Fighters Pass&nbsp;today for access to even more fighters, stages, and music as they release! Full version of game required to use DLC. Sold separately.\nGaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more!\nHaving trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling—a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers—legendary couch competitions await—or play together anytime, anywhere!",
+               "lastModified":1558544929462,
+               "id":"XYfGbmHybciAx7wE3EiKIu8c32ip0ULk",
+               "nsuid":"70010000012332",
+               "slug":"super-smash-bros-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/super-smash-bros-switch/Switch_Super_Smash_Bros_Ultimate_Box.png",
+               "gallery":"RqOXN1ZzE6xQzyiDXU2ChMrmEAACGHLT",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-12-06T00:00:00.000-08:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Action",
+                  "Fighting",
+                  "Multiplayer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Cartoon Violence",
+                  "Comic Mischief",
+                  "Suggestive Themes",
+                  "Users Interact",
+                  "In-Game Purchases"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "4+",
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo / Sora Ltd. / BANDAI NAMCO Studios Inc"
+               ],
+               "players":"up to 8 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"af83537a-d0a1-3819-9da7-6067659e1f76",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Super Smash Bros. Ultimate",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"XYfGbmHybciAx7wE3EiKIu8c32ip0ULk",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000012332",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/super-smash-bros-ultimate-special-edition-switch",
+               "title":"Super Smash Bros. Ultimate Special Edition",
+               "description":"With the Super Smash Bros. ™ Ultimate Special Edition, you will receive a Super Smash Bros. Ultimate game in a steel case, and a Super Smash Bros. Ultimate Edition Nintendo Switch™ Pro Controller to take down your friends in style!\nGaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more!\nHaving trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling—a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers—legendary couch competitions await—or play together anytime, anywhere!",
+               "lastModified":1558113070465,
+               "id":"Tu6zfQ9JsGj1YN_6okuKVTBwbe2VSj4J",
+               "slug":"super-smash-bros-ultimate-special-edition-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/super-smash-bros-ultimate-special-edition-switch/Switch_SSBU_box_Bundle.png",
+               "gallery":"RqOXN1ZzE6xQzyiDXU2ChMrmEAACGHLT",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-12-06T00:00:00.000-08:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Action",
+                  "Fighting",
+                  "Multiplayer"
+               ],
+               "msrp":139.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Cartoon Violence",
+                  "Comic Mischief",
+                  "Suggestive Themes",
+                  "Users Interact",
+                  "In-Game Purchases"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "4+",
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo / Sora Ltd. / BANDAI NAMCO Studios Inc"
+               ],
+               "players":"up to 8 players",
+               "featured":true,
+               "freeToStart":false,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"25db9414-8640-323b-b691-8dd80ab19fb9",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Super Smash Bros. Ultimate Special Edition",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"Tu6zfQ9JsGj1YN_6okuKVTBwbe2VSj4J",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/pokemon-lets-go-pikachu-switch",
+               "title":"Pokémon: Let's Go, Pikachu!",
+               "description":"Feel like a real Pokémon Trainer as you travel through the Kanto region in the Pokémon™: Let’s Go, Pikachu! or Pokémon™: Let’s Go, Eevee! games with Poké Ball™ Plus. The power of a Pokémon Trainer lies in the palm of your hand.\nDownload the game demo for free! Hello new Pokémon Trainers, a demo of Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee! games is available just for you. Explore Viridian Forest, where you can catch Pokémon in the wild and battle trainers with either a partner Pikachu or a partner Eevee at your side (randomly selected). Start your journey now.\n* Final game content may vary from this demo.\n* Demo game data cannot be transferred to the purchased game.\nBecome the best Pokémon Trainer as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con™ controller or a Poké Ball™ Plus accessory, which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus (sold separately). You can even connect to the Pokémon™ GO app* using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region!\nExplore the vibrant region of Kanto—home to beloved characters like Brock, Misty, and the nefarious trio Jessie, James, and Meowth! Throughout the story, your bond with your partner Pokémon grows stronger as you care for it and travel together. See the world in style by customizing Pikachu and your Trainer with a selection of outfits. True-to-size wild Pokémon roam around in the game—catch them like a real Pokémon Trainer by using timing and a well-placed Poké Ball™. Battle and trade with other players who own the game via local wireless or online**. Go on a stroll with your favorite Pokémon in your Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game. Connect to Pokémon GO* to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan, from that game to this one!\n\nBecome the best Pokémon Trainer on an adventure with Pikachu!\nEncounter Pokémon™ in the Kanto region and beloved characters like Brock and Misty as you foil the plans of Jesse, James, Meowth, and the rest of Team Rocket\nPlay the entire game in Handheld Mode, with a single Joy-Con™ controller, or the Poké Ball™ Plus accessory which will light up, vibrate, and make sounds to bring your adventure to life\nTake your Pokémon for a stroll in Poké Ball™ Plus to level them up, and to receive in-game rewards after returning them to the game.\nGently shake Poké Ball™ Plus to hear a Pokémon that has been put inside from Pokémon™: Let's Go, Pikachu! or Pokémon™: Let's Go, Eevee!\nEvery Poké Ball™ Plus contains your very own Mythical Pokémon Mew!**\nShare a Pokémon adventure together anytime, anywhere on one system by using another Joy-Con™ controller or Poké Ball™ Plus accessory (sold separately) to catch and battle alongside another player!\nConnect with the Pokémon™ GO* app on compatible smartphones to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan!\nConnect Poké Ball™ Plus to the Pokémon™ GO*** app to catch Pokémon in the real world and gather items from Poké Stops without viewing your smartphone screen—while carrying a Pokémon from the Pokémon™: Let's Go, Pikachu! or Pokémon™: Let's Go, Eevee! games\nBattle and trade with other players who own the game via local wireless or online**\nOther online features include Mystery Gifts**",
+               "lastModified":1558113070465,
+               "id":"i2MD5wC29vqM4uPYh6Tw-oKYojmuvsWg",
+               "nsuid":"70010000000447",
+               "slug":"pokemon-lets-go-pikachu-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/p/pokemon-lets-go-pikachu-switch/Switch_Pokemon_Lets_Go_Pikachu_box_2.png",
+               "gallery":"hldWRwZzE6-qvFZi_mi6Xt69lA4uUYFT",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-11-15T00:00:00.000-08:00",
+               "characters":[
+                  "Pokémon"
+               ],
+               "categories":[
+                  "Adventure",
+                  "Role-Playing",
+                  "Multiplayer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Demo available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "GAME FREAK Inc."
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"e6a4e168-363a-374c-8079-9faba89e339d",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Pokémon: Let's Go, Pikachu!",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"i2MD5wC29vqM4uPYh6Tw-oKYojmuvsWg",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000447",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/pokemon-lets-go-eevee-switch",
+               "title":"Pokémon: Let's Go, Eevee!",
+               "description":"Feel like a real Pokémon Trainer as you travel through the Kanto region in the Pokémon™: Let’s Go, Pikachu! or Pokémon™: Let’s Go, Eevee! games with Poké Ball™ Plus. The power of a Pokémon Trainer lies in the palm of your hand.\nDownload the game demo for free! Hello new Pokémon Trainers, a demo of Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee! games is available just for you. Explore Viridian Forest, where you can catch Pokémon in the wild and battle trainers with either a partner Pikachu or a partner Eevee at your side (randomly selected). Start your journey now.\n* Final game content may vary from this demo.\n* Demo game data cannot be transferred to the purchased game.\nBecome the best Pokémon Trainer as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con™ controller or a Poké Ball™ Plus accessory, which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus (sold separately). You can even connect to the Pokémon™ GO app* using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region!\nExplore the vibrant region of Kanto—home to beloved characters like Brock, Misty, and the nefarious trio Jessie, James, and Meowth! Throughout the story, your bond with your partner Pokémon grows stronger as you care for it and travel together. See the world in style by customizing Eevee and your Trainer with a selection of outfits. True-to-size wild Pokémon roam around in the game—catch them like a real Pokémon Trainer by using timing and a well-placed Poké Ball™. Battle and trade with other players who own the game via local wireless or online**. Go on a stroll with your favorite Pokémon in your Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game. Connect to Pokémon GO* to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan, from that game to this one!\n\nBecome the best Pokémon Trainer on an adventure with Eevee!\nEncounter Pokémon™ in the Kanto region and beloved characters like Brock and Misty as you foil the plans of Jesse, James, Meowth, and the rest of Team Rocket\nPlay the entire game in Handheld Mode, with a single Joy-Con™ controller, or the Poké Ball™ Plus accessory which will light up, vibrate, and make sounds to bring your adventure to life\nTake your Pokémon for a stroll in Poké Ball™ Plus to level them up, and to receive in-game rewards after returning them to the game.\nGently shake Poké Ball™ Plus to hear a Pokémon that has been put inside from Pokémon™: Let's Go, Pikachu! or Pokémon™: Let's Go, Eevee!\nEvery Poké Ball™ Plus contains your very own Mythical Pokémon Mew!**\nShare a Pokémon adventure together anytime, anywhere on one system by using another Joy-Con™ controller or Poké Ball™ Plus accessory (sold separately) to catch and battle alongside another player!\nConnect with the Pokémon™ GO* app on compatible smartphones to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan!\nConnect Poké Ball™ Plus to the Pokémon™ GO*** app to catch Pokémon in the real world and gather items from Poké Stops without viewing your smartphone screen—while carrying a Pokémon from the Pokémon™: Let's Go, Pikachu! or Pokémon™: Let's Go, Eevee! games\nBattle and trade with other players who own the game via local wireless or online**\nOther online features include Mystery Gifts**",
+               "lastModified":1558113070465,
+               "id":"KefRP5_7CRw9kp8hNS57ApyKEXrjKgFn",
+               "nsuid":"70010000000450",
+               "slug":"pokemon-lets-go-eevee-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/p/pokemon-lets-go-eevee-switch/Switch_Pokemon_Lets_Go_Eevee_box_2.png",
+               "gallery":"hldWRwZzE6-qvFZi_mi6Xt69lA4uUYFT",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-11-15T00:00:00.000-08:00",
+               "characters":[
+                  "Pokémon"
+               ],
+               "categories":[
+                  "Adventure",
+                  "Role-Playing",
+                  "Multiplayer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Demo available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "GAME FREAK Inc."
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"687a68d1-b33d-3843-ae8e-934c24c6b509",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Pokémon: Let's Go, Eevee!",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"KefRP5_7CRw9kp8hNS57ApyKEXrjKgFn",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000450",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/the-world-ends-with-you-final-remix-switch",
+               "title":"The World Ends with You: Final Remix",
+               "description":"Complete the mission...or face erasure. That's all Neku knows after regaining consciousness in the middle of a busy intersection without his memories. Now he and his partner must fight to survive a life-or-death game in this twisted tale with more turns than the urban labyrinth of Tokyo they're trapped in. This definitive version of Square Enix's RPG classic brings the dark story to life on the Nintendo Switch system along with an extra chapter, exclusive two-player combat, and some killer, new remixed music.\nIn the crowded chaos of Tokyo, players of the Reapers' Game must complete daily missions or face total erasure. Neku might not be enthusiastic about forging relationships, but with his very life on the line, he'll need to learn how to work together with a partner—and fast: they only have seven days. Gear up with stat-enhancing threads and collect mysterious pins to unleash psychic abilities in battle. Take control of real-time, action-fueled RPG battles using touch controls or Joy-Con™ controllers. With new features in addition to all the content from the Nintendo DS and mobile versions, the definitive version of this modern classic is finally here.",
+               "lastModified":1558109371265,
+               "id":"xL-GmqwRSYUbL06mjHYadXMclirITbp4",
+               "nsuid":"70010000011853",
+               "slug":"the-world-ends-with-you-final-remix-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/t/the-world-ends-with-you-final-remix-switch/Switch_TWEWY_box.png",
+               "gallery":"V4YzFpZzE6kgldsbTNoBa2kPLQg2w0zZ",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-10-11T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Role-Playing"
+               ],
+               "msrp":49.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Fantasy Violence",
+                  "Mild Language",
+                  "Mild Suggestive Themes"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "SQUARE ENIX CO., LTD."
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"01a062e7-2cf3-3855-a51b-2dc4dd38195e",
+               "_highlightResult":{
+                  "title":{
+                     "value":"The World Ends with You: Final Remix",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"xL-GmqwRSYUbL06mjHYadXMclirITbp4",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000011853",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/super-mario-party-switch",
+               "title":"Super Mario Party",
+               "description":"The original 4-player Mario Party series board game mode that fans love is back, and your friends and family are invited to the party! Freely walk the board: choose where to move, which Dice Block to roll, and how to win the most Stars in skill-based minigames. Wait till you see the 2 vs 2 mode with grid-based maps, the creative uses of the console, and the series’ first online minigame mode!\nTest your skills in sets of five minigames with the new mode, Mariothon, and see how you stack up against players across the globe in Online Mariothon*. Whether you’re pedaling tricycles, flipping meat, or who knows what else, you’ll use Joy-Con™ controllers in clever ways across 80 new minigames; some are all-out free-for-alls, others are 2 vs 2, or even 1 vs 3! Toad’s Rec Room lets you pair up two Nintendo Switch™ systems**, which you’ll lay side-by-side on a flat surface like a real tabletop game. That way you can play a mini baseball game, battle tanks in custom arenas, or even see who can match the most bananas by repositioning the systems however you see fit!",
+               "lastModified":1558113070465,
+               "id":"3bZRWi4rHAmW8cBw4-ynYNHKB7jxb5WL",
+               "nsuid":"70010000014158",
+               "slug":"super-mario-party-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/super-mario-party-switch/Switch_SuperMarioParty_box.png",
+               "gallery":"N3N2FuZzE65ZWkXF8rYkNRzhPuq4MU51",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-10-04T00:00:00.000-07:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Party",
+                  "Multiplayer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"3b772017-0779-3aa1-8b1d-f251d50a787e",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Super Mario Party",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"3bZRWi4rHAmW8cBw4-ynYNHKB7jxb5WL",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000014158",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/overcooked-2-switch",
+               "title":"Overcooked! 2",
+               "description":"Buddy up or go it alone as you cook up a storm, chopping, steaming and frying your way through dynamic and outright crazy levels. Now with online multiplayer for up to four chefs, there is no such thing as too many cooks and the steaks have never been higher as you prepare to save the Onion Kingdom... Again.\n\nOnline Multiplayer\nNew themes, chefs, recipes &amp; kitchens\nChaotic couch co-op (for up to four players)\nVersus mode\nArcade mode",
+               "lastModified":1558113070465,
+               "id":"bMo0R6zC5D5ewf5wTc424zc7RQnDFSIp",
+               "nsuid":"70010000003402",
+               "slug":"overcooked-2-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/o/overcooked-2-switch/Switch_Overcooked2_box.png",
+               "gallery":"1nNjVtaDE6yijrWKfJL5ebXMPSh-mlaS",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-08-06T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Strategy",
+                  "Party",
+                  "Simulation"
+               ],
+               "msrp":24.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Users Interact"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Team17 Digital Ltd"
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"85d4db29-0a15-3924-a43b-7302d15d9f5f",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Overcooked! 2",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"bMo0R6zC5D5ewf5wTc424zc7RQnDFSIp",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000003402",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/captain-toad-treasure-tracker-switch",
+               "title":"Captain Toad: Treasure Tracker",
+               "description":"As of February 13th, 2019, you can purchase the Captain Toad: Treasure Tracker - Special Episode DLC to continue your journey with eighteen new challenges, including five brand-new courses. Purchase and download this content before March 14th for early access to one of the courses! The remainder of the DLC will be available on March 14th. Naturally, you can play all of the courses with a friend or alone. Either way, you’ll dodge dangers and track treasures across many trap-filled miniature worlds; some are even based on the Super Mario Odyssey™ game!\nCaptain Toad stars in his own puzzling quest on the Nintendo Switch™ system! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey™ game! Luckily, a second player can join in by tossing turnips at enemies.\nPlay anytime, anywhere, and anyway you want—even in two-player mode using a pair of Joy-Con™ controllers on one Nintendo Switch system—in TV mode or Tabletop mode. You could also play alone in handheld mode! No matter what, explore each puzzling course for treasure, like hidden Super Gems and Power Stars. As you reclaim the treasure stolen by the monstrous, greedy bird, Wingo, you’ll eventually be able to play as Toadette! These tiny heroes must waddle, hide, pluck, chuck, and power-up through enemy-infested locales like towers, wild-west shanties, and Goomba waterparks—all bursting with secrets. Aim your head-mounted flashlight at adventure!",
+               "lastModified":1558113070465,
+               "id":"VOEJamy4OefwooB8752-azz3ZJD3GMV1",
+               "nsuid":"70010000002722",
+               "slug":"captain-toad-treasure-tracker-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/c/captain-toad-treasure-tracker-switch/Switch_CaptainToadTreasureTracker_box.png",
+               "gallery":"NiczZ3ZjE6i--rf9t9Yfq92r5xAvIRGe",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-07-12T00:00:00.000-07:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Puzzle",
+                  "Strategy"
+               ],
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Demo available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "msrp":39.99,
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"cde66ef4-21f9-3b5b-9536-cd4c3082e109",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Captain Toad: Treasure Tracker",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"VOEJamy4OefwooB8752-azz3ZJD3GMV1",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000002722",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/wolfenstein-ii-the-new-colossus-switch",
+               "title":"Wolfenstein II: The New Colossus",
+               "description":"ATTENTION: a microSD card (sold separately) with free storage space of minimum 23GB is required to download this game.\nFight through post-nuclear Manhattan, occupied Roswell, New Mexico, and the embattled bayous and boulevards of New Orleans as you liberate the American people from the Nazis.\nAs BJ Blazkowicz, experience an unforgettable action-packed story brought to life by extraordinary characters. Reunite with your friends and fellow freedom fighters as you take on the evil Frau Engel and her Nazi army. Wage the second American Revolution your way – at home or on the go. And, for the perfect blend of immersion and accuracy, utilize the Nintendo Switch’s unique motion controls to stop the Nazi threat.",
+               "lastModified":1558113070465,
+               "id":"RX3RAfDdvgnjGbPBunPzZ-OHGPJViicE",
+               "nsuid":"70010000005065",
+               "slug":"wolfenstein-ii-the-new-colossus-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/w/wolfenstein-ii-the-new-colossus-switch/Switch_Wolfenstein2_box.png",
+               "gallery":"E4cHk0ZjE6dOJGRSZg3-jGVAd5C3luBj",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-06-28T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "First-Person",
+                  "Action",
+                  "Adventure"
+               ],
+               "msrp":59.99,
+               "esrb":"Mature",
+               "esrbDescriptors":[
+                  "Blood and Gore",
+                  "Intense Violence",
+                  "Partial Nudity",
+                  "Sexual Content",
+                  "Strong Language",
+                  "Use of Drugs"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Bethesda Softworks"
+               ],
+               "developers":[
+                  "MachineGames"
+               ],
+               "players":"1 player",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"306118ad-a89a-3c9f-9812-710b34e148ba",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Wolfenstein II: The New Colossus",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"RX3RAfDdvgnjGbPBunPzZ-OHGPJViicE",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000005065",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/mario-tennis-aces-switch",
+               "title":"Mario Tennis Aces",
+               "description":"Unleash an arsenal of shots and strategies in all-out tennis battles with friends, family, and fan-favorite Mushroom Kingdom characters. Whether you play locally,* online,** or using simple motion controls, intense rallies await! In Adventure mode, experience a new favor of tennis gameplay, with a variety of missions, boss battles and more.\nComplete missions and boss battles in Adventure mode while mastering the controls. Test your hard-earned skills in singles or doubles with up to 4 players in local* or online** multiplayer, not to mention Tournament Mode, which lets you challenge the CPU. Store up energy and use it to pull off amazing feats: move so fast the world slows down around you or aim in first-person to send the ball crashing down! Your rivals may attempt to block you, but if they fail, their racket will take damage—and break after three hits. Fully charge your energy to launch the ball with enough force to KO your opponent!\n\nRally against other players in singles or doubles as one of 15+ Mushroom Kingdom characters\nServe up everything from basic shots to trick shots to split-second blocks\nUse energy to leap after the ball, slow down time, aim in first-person, break rackets, and KO opponents!\nPlay locally,* online,** or swing your Joy-Con™ controller like a real racket in Swing Mode\nTake on CPU opponents in the Mushroom Cup, Flower Cup, or Star Cup in Tournament Mode\nAdventure mode offers a new flavor of tennis gameplay, with a variety of missions, boss battles and more.",
+               "lastModified":1558113070465,
+               "id":"v0Ya5Z9XhvpbgBP5g2iNousChEol7JG4",
+               "nsuid":"70010000003889",
+               "slug":"mario-tennis-aces-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/m/mario-tennis-aces-switch/Switch_MarioTennisAces_box.png",
+               "gallery":"R4ZG9uZjE60InrJG9DGmgU4kdRmN0iBC",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2018-06-21T00:00:00.000-07:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Sports"
+               ],
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Camelot"
+               ],
+               "players":"up to 4 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "msrp":59.99,
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"49ede443-7c50-3ee9-b19e-19315701e2e1",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Mario Tennis Aces",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"v0Ya5Z9XhvpbgBP5g2iNousChEol7JG4",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000003889",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/xenoblade-chronicles-2-switch",
+               "title":"Xenoblade Chronicles 2",
+               "description":"As the giant beasts march toward death, the last hope is a scavenger named Rex—and Pyra, a living weapon known as a Blade. Can you find the fabled paradise she calls home? Command a group of Blades and lead them to countless strategic victories before the world ends.\nEach Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.\nDuring these escapades you'll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.\n\nA new story in the Xenoblade Chronicles™ series\nThe next adventure is on the Nintendo Switch™ console—set on the backs of colossal, living Titans\nDiscover each Titan’s diverse regions, culture, wildlife, equipment, and hidden secrets\nFind, bond with, and command weaponized life forms known as Blades to earn abilities and enhance them\nUncover the history of Alrest and the mystery of its endless ocean of clouds",
+               "lastModified":1558113070465,
+               "id":"Kwpr-WrkbCDpvOc85egwBFB4gvLbSiz1",
+               "nsuid":"70010000000707",
+               "slug":"xenoblade-chronicles-2-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/x/xenoblade-chronicles-2-switch/Switch_XenobladeChronicles2_box.png",
+               "gallery":"RqOGx2ZjE6GGJdB6seEbcDHo5chk39HZ",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-11-30T00:00:00.000-08:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Role-Playing"
+               ],
+               "msrp":59.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Language",
+                  "Suggestive Themes",
+                  "Use of Alcohol and Tobacco",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Monolith Soft"
+               ],
+               "players":"1 player",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"73ffb494-7237-3a5e-9450-30b27995afe1",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Xenoblade Chronicles 2",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"Kwpr-WrkbCDpvOc85egwBFB4gvLbSiz1",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000707",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/the-elder-scrolls-v-skyrim-switch",
+               "title":"The Elder Scrolls V: Skyrim®",
+               "description":"Winner of 200+ Game of the Year Awards, Skyrim® arrives on the Nintendo Switch™ console. The open-world adventure from Bethesda Game Studios® where you can virtually be anyone and do anything, now allows you to go anywhere—at home and on the go. New features include motion controls, gear based on the Legend of Zelda™ series, and amiibo™ compatibility.\nDragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand against them.\nLive another life, in another world—from battling ancient dragons, exploring rugged mountains, building a home, or mastering hundreds of weapons, spells and abilities. For the first time ever, go into battle Legend of Zelda style: fight with the Master Sword, guard with the Hylian Shield, while wearing the Champion's Tunic. The game also includes official add-ons—Dawnguard, Hearthfire, and Dragonborn.\n\nThe legendary open-world masterpiece from Bethesda Game Studios comes to the Nintendo SwitchTM system\nIncludes all content from official add-ons: Dawnguard, Hearthfire, and Dragonborn\nUncover the mystery behind the return of the dragons in a massive open world to explore any way you choose\nLive another life, in another world and create your own custom character, and do virtually whatever you want.\nChoose from hundreds of weapons, spells, and abilities. The character system allows you to play almost any way you want and define yourself through your actions\nYour decisions matter in a world that changes dynamically based on your choices\nUse motion controls to battle with melee weapons, aim your bow, or pick locks, exclusively on Nintendo Switch™",
+               "lastModified":1558109371265,
+               "id":"zpdsacIk98dtYPHHMeE_iviMiP1t4ZP6",
+               "nsuid":"70010000001369",
+               "slug":"the-elder-scrolls-v-skyrim-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/t/the-elder-scrolls-v-skyrim-switch/Switch_Skyrim_box.png",
+               "gallery":"/content/dam/noa/fr_CA/games/switch/t/the-elder-scrolls-v-skyrim-switch/screenshot-gallery/Switch_Skyrim_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-11-16T00:00:00.000-08:00",
+               "characters":[
+                  "Zelda"
+               ],
+               "categories":[
+                  "Role-Playing",
+                  "Action"
+               ],
+               "msrp":59.99,
+               "esrb":"Mature",
+               "esrbDescriptors":[
+                  "Blood and Gore",
+                  "Intense Violence",
+                  "Sexual Themes",
+                  "Use of Alcohol"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Bethesda Softworks"
+               ],
+               "developers":[
+                  "Bethesda Game Studios"
+               ],
+               "players":"1 player",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"597bd4ee-dad9-3da7-9777-2dff210881c0",
+               "_highlightResult":{
+                  "title":{
+                     "value":"The Elder Scrolls V: Skyrim®",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"zpdsacIk98dtYPHHMeE_iviMiP1t4ZP6",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000001369",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/super-mario-odyssey-switch",
+               "title":"Super Mario Odyssey",
+               "description":"Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser's wedding plans!\nThanks to heroic, hat-shaped Cappy, Mario's got new moves that'll make you rethink his traditional run-and-jump gameplay—like cap jump, cap throw, and capture. Use captured cohorts such as enemies, objects, and animals to progress through the game and uncover loads of hidden collectibles. And if you feel like playing with a friend, just pass them a Joy-Con™ controller! Player 1 controls Mario while Player 2 controls Cappy. This sandbox-style 3D Mario adventure—the first since 1996's beloved Super Mario 64™ and 2002's Nintendo GameCube™ classic Super Mario Sunshine™—is packed with secrets and surprises, plus exciting new kingdoms to explore.\n\nExplore astonishing new locales like skyscraper-packed New Donk City to your heart's content, and run into familiar friends and foes as you try to save Princess Peach from Bowser's dastardly wedding plans.\nFind something interesting? Toss your cap at it and see what happens! There are lots of fun and surprising ways to interact with your surroundings.\nBe sure to bring any coins you find to a Crazy Cap store, where you can exchange them for decorative souvenirs for the Odyssey and new outfits for Mario! Some destinations have very exclusive dress codes, after all…\nHand a Joy-Con™ controller to a friend to enjoy simultaneous multiplayer: Player 1 controls Mario while Player 2 controls Mario's new ally Cappy.\nUse Snapshot Mode to freeze time while playing the game and take screenshots that you can customize using various options and filters. Screenshots can be shared via social media or uploaded to PCs and smart devices* using all of the Nintendo Switch™ system's built-in screenshot tools.\nA special edition Nintendo Switch™ hardware bundle will launch alongside the game. This special edition includes a download code for the full game, red left and right Joy-Con™ controllers, and a Super Mario Odyssey™ themed Nintendo Switch carrying case.",
+               "lastModified":1558113070465,
+               "id":"fWmlUNmveycEsP2y5ez7JSVfV-cGjjz6",
+               "nsuid":"70010000001130",
+               "slug":"super-mario-odyssey-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/super-mario-odyssey-switch/Switch_SuperMarioOdyssey_box.png",
+               "gallery":"N4bnI4ZDE6JTPeMbUtX5zubMaD2ZKwDk",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-10-26T00:00:00.000-07:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Action",
+                  "Platformer"
+               ],
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Cartoon Violence",
+                  "Comic Mischief"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "msrp":59.99,
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"3ce3fb54-5f95-3a24-9101-7faa694c4b6f",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Super Mario Odyssey",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"fWmlUNmveycEsP2y5ez7JSVfV-cGjjz6",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000001130",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/splatoon-2-switch",
+               "title":"Splatoon 2",
+               "description":"For the first time, take Turf War battles on-the-go with the Nintendo Switch™ system, and use any of the console's portable play styles for intense local multiplayer* action. Even team up for new 4-player co-op fun in Salmon Run!\nTwo years have passed since the original Splatoon™ game was released, and two years have also passed in Inkopolis! So expect a fresh wave of fashion, not to mention new weapons and gear. Dual wield the new Splat Dualies or stick to mainstays like chargers and rollers, which have been remixed with new strategic possibilities. As always, Turf War is the favored sport among Inklings, but they also dig ranked battles, taking down Octarians in a robust single-player campaign, and battling enemy Salmonids in one dangerous part-time job! No matter which way you play, splat at home or on-the-go with Nintendo Switch. Staying fresh never felt so good.\n\nTurf War - Team up in fierce 4-on-4 multiplayer battles* to see which team can cover the most turf with ink\nSalmon Run – 2-4 players* can team up for co-op fun and defeat waves of enemy Salmonids.\nNew weapons – Dual wield the new Splat Dualies and avoid getting splatted with the new Dodge Roll move. Mainstays like the Splat Roller and Splat Charger have been remixed to include new gameplay mechanics, and all special weapons are brand-new.\nLocal and Online Multiplayer - In a first for the series, compete in local multiplayer Turf War battles*, whether in TV mode or on-the-go in handheld or tabletop modes. Online battles also make a return**\nNew ways to play – Play with the Joy-Con™ controllers or the Nintendo Switch™ Pro Controller (sold separately), both of which support motion controls for better aiming\nFresh Updates - Similar to the Splatoon™ game for the Wii U™ console, updates will roll out post-launch, adding new content and in-game events.\nSmart Device Support** - An upcoming smart-device application for the Nintendo Switch system will allow players to set play appointments with friends and teammates, as well as voice chat with friends during play sessions.\nLAN Play - Up to 10 docked systems – eight players and two spectators – can connect via wired LAN (additional accessories required; sold separately). This feature allows players to create local Private Battle tournaments without the need for an internet connection. Local wireless play is perfect for your regular gaming get-togethers, but LAN Play is where it's at when you want to organize a serious tournament.\nCustomize – Change your Inkling's style with different weapons, headgear, clothes, and shoes. Gear isn't just aesthetic; it offers different boosts in battles.\namiibo - Compatible with all Splatoon™ series amiibo™ figures. By tapping these amiibo, the figure's character will appear in the game and befriend players. Befriend an amiibo character and they will remember favorited weapons, gear, outfits and option settings.",
+               "lastModified":1558113070465,
+               "id":"qxGyfWbxoVkjmTlEaY_HVlaoNmHSvpLd",
+               "nsuid":"70010000000529",
+               "slug":"splatoon-2-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/splatoon-2-switch/Switch_Splatoon2_box.png",
+               "gallery":"01bjhyYTE6M7_ukCMNMHiNVOYp4wZsll",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-07-20T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Multiplayer"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "4+",
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 8 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"0c494b4e-4de6-3507-8ad2-cbf96f0fc175",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Splatoon 2",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"qxGyfWbxoVkjmTlEaY_HVlaoNmHSvpLd",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000529",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/arms-switch",
+               "title":"ARMS",
+               "description":"These elite fighting superstars share one thing in common: extendable arms! So fight as never before: equip super-powered ARMS to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!\nFeatures:\n\nDeep, strategic gameplay via simple motion and button controls: Tilt the Joy-Con™ controller to move your character about the arena, flick your fists to throw punches, then twist your hands to curve your punches midflight. It's easy to learn, and incredibly satisfying to reach out and punch someone.\nMix and match arms to strategically bring new fights to your opponent: Select from a variety of different characters with unique abilities and equip a plethora of arms to strategize your approach. Use different combinations of arms and characters to change your approach in each round for endless gameplay possibilities.\nTake on a variety of game modes: Dunk your opponent through a basketball hoop in a game of Hoops, spike your opponent in the face with an exploding ball in a game of V-ball, take on 100 enemies in waves of increasing difficulty, and more.\nBrawl in multiplayer modes: Grab some friends for some team versus modes in 4-player action over local wireless, go online* as a pair, or get your game face on with some ranked 1-on-1 matches.\nTournament Support and DLC: The LAN mode featured in the 2017 ARMS Open Invitational will release publicly to support competitive players (LAN adapter required; sold separately). Max Brass, the final boss of the game, and his Sky Arena stage will also become playable in a downloadable update.",
+               "lastModified":1558113070465,
+               "id":"sZkPDN2pn3MnZyTcBG-51tvpfMbvMVt_",
+               "nsuid":"70010000000392",
+               "slug":"arms-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/a/arms-switch/Switch_ARMS_box.png",
+               "gallery":"hvbThyYTE6YbnYF-jY-FkRhdgO4w0oSj",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-06-15T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Fighting",
+                  "Multiplayer",
+                  "Action"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Cartoon Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Demo available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 2 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"d4767065-3d74-300f-a03a-73c67c745e60",
+               "_highlightResult":{
+                  "title":{
+                     "value":"ARMS",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"sZkPDN2pn3MnZyTcBG-51tvpfMbvMVt_",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000392",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/mario-kart-8-deluxe-switch",
+               "title":"Mario Kart 8 Deluxe",
+               "description":"Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.!\nFeatures:\n\nRace your friends in the definitive version of Mario Kart 8, only on Nintendo Switch!\nRace as every character on every track from the Wii U version, including DLC characters and tracks.\nPop some balloons in the revamped Battle mode, complete with Balloon Battle and Bob-omb Blast.\nBattle on new courses, like Urchin Underpass and Battle Stadium, or returning ones, such as GCN Luigi's Mansion and SNES Battle Course 1.\nInkling Girl &amp; Inkling Boy from Splatoon, King Boo, Dry Bones, and Bowser Jr. join the roster!\nPlayers can choose a new Smart Steering feature which makes driving and staying on the track easy for novice players and kids even at 200cc\nThree new vehicles have been added, two are even inspired by Splatoon\nCarry two items at the same time\nReturning items include Boo, the item stealing ghost, and the Feather, which gives you a high jump in battle mode.\nPlay your friends in local wireless multiplayer with up to 8 players.\nDrive through in 1080p HD quality in TV mode\nPlay on the go with handheld mode and play anytime, anywhere",
+               "lastModified":1558113070465,
+               "id":"ySxBNOPhx0xWi1Zf7Lp1PZ08Mgd7Dvm-",
+               "nsuid":"70010000000153",
+               "slug":"mario-kart-8-deluxe-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/m/mario-kart-8-deluxe-switch/Switch_MK8-Deluxe_box.png",
+               "gallery":"h5cWI1YTE6gLmwBccTAauweUaH1pQsWV",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-04-27T00:00:00.000-07:00",
+               "characters":[
+                  "Mario"
+               ],
+               "categories":[
+                  "Racing",
+                  "Multiplayer"
+               ],
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Comic Mischief"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "4+",
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"up to 12 players",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "msrp":59.99,
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"fbf4b047-e25b-3f4e-a7f9-23d042e0a733",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Mario Kart 8 Deluxe",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"ySxBNOPhx0xWi1Zf7Lp1PZ08Mgd7Dvm-",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000153",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/the-legend-of-zelda-breath-of-the-wild-switch",
+               "title":"The Legend of Zelda: Breath of the Wild",
+               "description":"Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule In this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.\nFeatures:\n\nExplore the wilds of Hyrule any way you like—anytime, anywhere! - Climb up towers and mountain peaks in search of new destinations, then set your own path to get there and plunge into the wilderness. Along the way, you'll battle towering enemies, hunt wild beasts and gather ingredients for the food and elixirs you'll make to sustain you on your journey. With Nintendo Switch, you can literally take your journey anywhere.\nMore than 100 Shrines of Trials to discover and explore - Shrines dot the landscape, waiting to be discovered in any order you want. Search for them in various ways, and solve a variety of puzzles inside. The tasks you must perform in each Shrine varies, and you'll never expect the challenges you'll face until you enter. Some will involve realistic physics, and some will require you to harness the power of nature, including electricity, wind, fire, and more. Work your way through the traps and devices inside, utilizing your runes and think outside the box to earn special items and other rewards that will help you on your adventure.\nBe prepared and properly equipped – With an entire world waiting to be explored, you'll need a variety of outfits and gear to reach every corner. You may need to bundle up with warmer clothes or change into something better suited to the desert heat. Some clothing even has special effects that, for example, can make you faster or stealthier.\nBattling enemies requires strategy – The world is inhabited with enemies of all shapes and sizes. Each one has its own attack method and weaponry, so you must think quickly and develop the right strategies to defeat them.\namiibo compatibility – The Wolf Link amiibo from Twilight Princess HD, the Zelda 30th Anniversary series amiibo, and The Legend of Zelda: Breath of the Wild series amiibo are all compatible with this game. Tap the Wolf Link amiibo (sold separately) to make Wolf Link appear in the game. Wolf Link will attack enemies on his own and help you find items you’re searching for. Tap a Zelda 30th Anniversary series amiibo to receive helpful in-game items or even a treasure chest!",
+               "lastModified":1558109371265,
+               "id":"GHbaBYuv3zqQeW1CVQlmTSehZ45KTV78",
+               "nsuid":"70010000000025",
+               "slug":"the-legend-of-zelda-breath-of-the-wild-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/t/the-legend-of-zelda-breath-of-the-wild-switch/Switch_TLOZ-BOTW_box.png",
+               "gallery":"U5cW5zODE6qNoBrWH_RQ-okR_Aa5YilY",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2017-03-02T00:00:00.000-08:00",
+               "characters":[
+                  "Zelda"
+               ],
+               "categories":[
+                  "Adventure",
+                  "Action"
+               ],
+               "msrp":59.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Fantasy Violence",
+                  "Mild Suggestive Themes",
+                  "Use of Alcohol"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "DLC available",
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Nintendo"
+               ],
+               "developers":[
+                  "Nintendo"
+               ],
+               "players":"1 player",
+               "featured":true,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "Available now"
+               ],
+               "objectID":"1033e35d-e877-3db0-a492-149a2bda7b40",
+               "_highlightResult":{
+                  "title":{
+                     "value":"The Legend of Zelda: Breath of the Wild",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"GHbaBYuv3zqQeW1CVQlmTSehZ45KTV78",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000000025",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/yu-gi-oh-legacy-of-the-duelist-link-evolution-switch",
+               "title":"Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+               "description":"Experience over 20 years of Yu-Gi-Oh! history with Yu-Gi-Oh! Legacy of the Duelist: Link Evolution on Nintendo Switch!\nBuild your Deck from over 9,000 cards and take on the most iconic Duelists from the Yu-Gi-Oh! universe. Relive the stories from the original animated Yu-Gi-Oh! series through Yu-Gi-Oh! ARC-V, and challenge the newest generation of Duelists from the virtual world of Yu-Gi-Oh! VRAINS!",
+               "lastModified":1558465736564,
+               "nsuid":"70010000016925",
+               "slug":"yu-gi-oh-legacy-of-the-duelist-link-evolution-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/y/yu-gi-oh-legacy-of-the-duelist-link-evolution-switch/Switch_YuGiOh-LegacyOfTheDuelist_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/y/yu-gi-oh-legacy-of-the-duelist-link-evolution-switch/screenshot-gallery/Switch_YuGiOh-LegacyOfTheDuelist_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-08-19T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Board Game",
+                  "Simulation",
+                  "Strategy",
+                  "Puzzle"
+               ],
+               "msrp":39.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Fantasy Violence",
+                  "Mild Blood",
+                  "Partial Nudity"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "Konami"
+               ],
+               "developers":[
+                  "Other Ocean Interactive"
+               ],
+               "players":"up to 2 players",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"0838cb24-b399-33fe-948d-1bbbf2bc0c94",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000016925",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/police-stories-switch",
+               "title":"Police Stories",
+               "description":"Unforgiving and tense, each mission tells a story of two police operatives - John Rimes and Rick Jones, filled with infiltrating gang hideouts, rescuing hostages, making arrests and other life-threatening situations.\n– The Surrender System allows you to apprehend the suspects without resorting to violence. Fire a warning shot near them or engage them in melee combat - those are just some of the ways you can make them submit.\n\n– Issue commands to your fellow cop Rick Jones. Make sure to use him wisely - and who knows, he might save your life in return.&nbsp;\n\n– Randomly placed criminals, hostages and evidence make every level run unique. The placement changes every time you restart, leading to new interesting situations and opportunities.\n\n– As a law enforcement officer, you will have access to end-of-the-line police equipment, such as under-the-door cameras, door blast charges and many others.\n\n– Various types of lawbreakers, from small petty criminals to well organised gangs and terrorists. Each type has not only unique weapons, but different behaviour and shooting skill.\n\nComplex Tactical Gameplay: Try not to get spotted, don't waste bullets, regularly check your surroundings and make sure to take criminals down quietly.\n– All your actions are scored in real time. Playing aggressively won't get you a high enough result to start the next mission - so keep that in mind!\n\n– Local Co-op. Complete missions together for better scores and more fun!",
+               "lastModified":1558113070465,
+               "nsuid":"70010000019041",
+               "slug":"police-stories-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/p/police-stories-switch/Switch_PoliceStories_box_eShop.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/p/police-stories-switch/screenshot-gallery/Switch_PoliceStories_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-08-12T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Arcade",
+                  "Simulation"
+               ],
+               "msrp":14.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Blood",
+                  "Drug Reference",
+                  "Use of Tobacco",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "HYPETRAIN DIGITAL"
+               ],
+               "developers":[
+                  "Mighty Morgan"
+               ],
+               "players":"up to 2 players",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":null,
+               "availability":[
+                  "Coming soon"
+               ],
+               "objectID":"3cb9c23f-b4aa-3232-8e8e-5e6db319c4e9",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Police Stories",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000019041",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/we-the-revolution-switch",
+               "title":"We. The Revolution",
+               "description":"We. The Revolution is a unique game with a singular art style set in the blood-soaked and paranoid world of the French Revolution, where often you could not tell a friend from an enemy. As a judge of the Revolutionary Tribunal, you will pass sentences and play a dangerous political game. At the end of a day you will also confront your decisions with your family.\nThe power over human life and death is a heavy burden that can affect the fate of the revolution. Keep that in mind each time when passing sentence in the courtroom, while assigning tasks to your agents, and weaving political intrigue. We. The Revolution is addressed chiefly to players who enjoy moral dilemmas, complex personal choices, and want to immerse themselves in the world of sophisticated intrigue.",
+               "lastModified":1558113070465,
+               "nsuid":"70010000019737",
+               "slug":"we-the-revolution-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/w/we-the-revolution-switch/Switch_WeTheRevolution_box-eShop.png",
+               "gallery":"hod2dzaDE6LPBneChB5je41jtOu8e_Ac",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-06-25T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure",
+                  "Strategy"
+               ],
+               "msrp":19.99,
+               "esrb":"Mature",
+               "esrbDescriptors":[
+                  "Blood",
+                  "Sexual Themes",
+                  "Simulated Gambling",
+                  "Strong Language",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Klabater"
+               ],
+               "developers":[
+                  "Polyslash"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":17.99,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"1b8632d6-b1f9-35f5-8e21-4764cfa0d7b3",
+               "_highlightResult":{
+                  "title":{
+                     "value":"We. The Revolution",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000019737",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"17.99",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/anarcute-switch",
+               "title":"Anarcute",
+               "description":"These are dark times. A group of evil corporations has taken over the major cities of the world. They took control of the media, brainwashed the police and now shamelessly dictate the citizens' lives from the heights of their skyscrapers.\n&nbsp;\nIt is time to act! Take control of the revolution to face the terrible Brainwash Patrol who’s dominating the world.\n&nbsp;\nUnited we stand!\nIn Anarcute you’re not controlling a single character but rather a whole crowd! The bigger the crowd, the more powerful it gets. Wake up your fellow rioters in the cities and grow the revolt to unleash devastating abilities!\n&nbsp;\nThe city is your playground\nPhone booth, fire hydrants, trash cans, bikes, cars… use objects from the city as projectiles. If your crowd gets big enough, you’ll even be able to take down whole buildings and make them collapse on your opponents!\n&nbsp;\nFight the Brainwash Patrol&nbsp;\nYour opponents will stop at nothing and they will use all of their impressive equipment to stop you from completing your objectives. Lasers, Electric Turrets, Spider Robots, Helicopters and Mortars are some of the many traps and enemies that will stand in your way\n&nbsp;\nSpread the revolution across the Globe\nDuring your adventure, you will get through 5 cities with unique visual and audio settings. From Tokyo to Paris and going through Reykjavik &amp; Miami, the Brainwash Patrol won’t give you any rest. Explore every corner of the cities to find all the animals and customize the crowd to your taste!\n&nbsp;\nIt is time for the cute revolution!\n&nbsp;\nKey Facts :\n※ Lead a group of adorably cute rioters and wreak havoc all over the world in your fight against evil\n※ Pick up any object in the streets and throw those at the Brainwash Patrol\n※ Take down any building on your path and take advantage of the city’s layout\n※ Fight the Brainwash Patrol, a terrible force ready to do anything to stop you\n※ Explore the world and set it free!",
+               "lastModified":1558379326231,
+               "nsuid":"70010000019664",
+               "slug":"anarcute-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/a/anarcute-switch/Switch_Anarcute_box_eShop.png",
+               "gallery":"Y4MXB0aDE6VqRwAASyP2dSm2IkVqOCqd",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-30T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Fighting",
+                  "Simulation",
+                  "Strategy"
+               ],
+               "msrp":14.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Fantasy Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Plug In Digital"
+               ],
+               "developers":[
+                  "Anarteam"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"ccd58705-aad1-3769-8dda-cd305d0cf982",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Anarcute",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000019664",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/terratech-switch",
+               "title":"TerraTech",
+               "description":"Explore, build, craft and battle across alien worlds in this physics-based construction sandbox adventure.\nDesign cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive and become the ultimate planetary prospector.\n\nSingle player modes:\n\n• Fight enemies, complete missions &amp; work your way up the ranks in Campaign.\n• Explore and build with or without the threat of enemies in Creative.\n• Build the fastest Tech you can and beat your previous race times in Gauntlet.",
+               "lastModified":1558109371265,
+               "nsuid":"70010000015530",
+               "slug":"terratech-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/t/terratech-switch/Switch_TerraTech_box_eShop.png",
+               "gallery":"Y2ODB0aDE6ub26Sg5V1MVi4md_Kizq8z",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-29T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Adventure",
+                  "Strategy"
+               ],
+               "msrp":24.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Fantasy Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Terra Tek Studios"
+               ],
+               "developers":[
+                  "Payload Studios"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":22.49,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"d0a49217-53f9-366f-b96c-4887a18a6636",
+               "_highlightResult":{
+                  "title":{
+                     "value":"TerraTech",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000015530",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"22.49",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/happy-words-switch",
+               "title":"Happy Words",
+               "description":"Happy words is a word based real time online multiplayer board game for 1 to 4 players in which you have to create new words based on existing ones.&nbsp;\nThe object of Happy-Words is to score more points than your opponents.&nbsp;\nA player collects points by placing words on the game board. Each letter has a different point value, so the strategy becomes to play words with high scoring letter combinations.&nbsp;\n&nbsp;\nThe game supports English, German, French, Spanish, Italian, Russian and Bulgarian languages.\nYour can play Happy Words in 3 modes:\n1) Online with your friends or via random opponents from internet&nbsp;\n2) Solo versus intelligent robots\n3) Local on the same device with your friends and family\n&nbsp;\nThe game is highly customizable. You can play with different settings like &quot;time to think&quot;, one or two bags of letters, with or without use of helping dictionary and many others.\nYou can also customize your board color and tile color styles.\n&nbsp;\nGood luck.&nbsp;",
+               "lastModified":1558508878397,
+               "nsuid":"70010000017402",
+               "slug":"happy-words-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/h/happy-words-switch/Switch_HappyWords_box_eShop.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/h/happy-words-switch/screenshot-gallery/Switch_HappyWords_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-29T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Board Game",
+                  "Multiplayer",
+                  "Strategy",
+                  "Puzzle"
+               ],
+               "msrp":9.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Users Interact"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online",
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "LAN - GAMES EOOD"
+               ],
+               "players":"up to 4 players",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$5 - $9.99",
+               "salePrice":6.99,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"5de9544b-6bff-3bf6-b2d1-27e2cf1c33a2",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Happy Words",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000017402",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"6.99",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/crystal-crisis-switch",
+               "title":"Crystal Crisis",
+               "description":"An all-star cast of heroes has gathered to test their mettle in Crystal Crisis, a cute and chaotic new color-matching combat game! Crystal Crisis is presented like a one-on-one fighting game, but instead of kicking and punching, players attack by arranging colorful falling crystals and clearing them from the screen. It’s the ultimate puzzle battle throwdown!\n• 20 unique playable characters, including Quote and Curly Brace from Cave Story, Isaac from The Binding of Isaac, Astro Boy and Black Jack from Tezuka Productions, and many more!\n\n• Build up your “Burst” Gauge with combos to unleash powerful special attacks!\n• Several unique single-player and multiplayer game modes, including Story Mode, Arcade, Survival, Tag Team, Versus Mode, Online Versus and more!\n• Innovative new “wrap-around” feature allows you to move falling pieces beyond the edge of the wall to reappear on the other side.\n• Each character has his or her own stage, musical theme, unique special attacks and voice-acted exclamations!",
+               "lastModified":1558113070465,
+               "nsuid":"70010000003542",
+               "slug":"crystal-crisis-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/c/crystal-crisis-switch/Switch_CrystalCrisis_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/c/crystal-crisis-switch/screenshot-gallery/Switch_CrystalCrisis_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-28T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Arcade",
+                  "Fighting",
+                  "Puzzle"
+               ],
+               "msrp":19.99,
+               "esrb":"Everyone 10+",
+               "esrbDescriptors":[
+                  "Fantasy Violence",
+                  "Mild Language",
+                  "Suggestive Themes"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Online Play via Nintendo Switch Online"
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "Nicalis"
+               ],
+               "players":"up to 4 players",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"e5559305-35d6-3626-a4a8-b94dd1ff4af5",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Crystal Crisis",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000003542",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/among-the-sleep-enhanced-edition-switch",
+               "title":"Among the Sleep - Enhanced Edition",
+               "description":"In the enhanced edition of this award-winning first person horror adventure, you step into the pyjamas of a two year old child creeping through a dark and distorted house. Find your missing mother as you wander through sinister and surreal surroundings ranging from a haunting playground to a lakeside cottage, with only a teddy bear by your side for comfort. Will you survive long enough to unravel the family secret and make it to the end of this pitch-black nightmare?\n&nbsp;\nFeatures:\nEnhanced edition with new dialogue, better performance &amp; visuals and more\nPut the pieces of the puzzle together to find out what has happened to your mother\nCreep through threatening environments like a twisted forest and a dark house\nUnravel a disturbing story filled with tension, symbolism and psychological horror",
+               "lastModified":1558113070465,
+               "id":"CDoXni4ReNs1JTt0DiEG6IpucOYs-2eh",
+               "nsuid":"70010000015055",
+               "slug":"among-the-sleep-enhanced-edition-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/a/among-the-sleep-enhanced-edition-switch/Switch_AmongTheSleep_box.png",
+               "gallery":"Q5YjhsaDE6rXE0RVAQ5WZVjpdENR5SdR",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-28T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Adventure",
+                  "Puzzle",
+                  "Other"
+               ],
+               "msrp":24.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Mild Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Soedesco"
+               ],
+               "developers":[
+                  "Krillbite Studio"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"b6349158-c2c5-347b-8688-5ec1eec63c96",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Among the Sleep - Enhanced Edition",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"CDoXni4ReNs1JTt0DiEG6IpucOYs-2eh",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000015055",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/brothers-a-tale-of-two-sons-switch",
+               "title":"Brothers: A Tale of Two Sons",
+               "description":"Play the award-winning adventure with an all-new two-player mode for Nintendo Switch!\nGuide two brothers on an epic fairytale journey from visionary Swedish film director Josef Fares. Control both brothers at once as you experience co-op play in single-player – or team up with a friend through the heartfelt story.\n\nSolve puzzles, explore stunning locations, and face off against harrowing bosses. This is one journey you will never forget.\n\nIncludes bonus content: go behind-the-scenes with a director’s commentary and concept art gallery.",
+               "lastModified":1558555754636,
+               "nsuid":"70010000016192",
+               "slug":"brothers-a-tale-of-two-sons-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/b/brothers-a-tale-of-two-sons-switch/Switch_Brothers_box_eShop.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/b/brothers-a-tale-of-two-sons-switch/screenshot-gallery/Switch_Brothers_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-28T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure",
+                  "Puzzle"
+               ],
+               "msrp":14.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Blood",
+                  "Language",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "1+"
+               ],
+               "publishers":[
+                  "505 Games"
+               ],
+               "players":"up to 2 players",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":13.49,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"391ba139-c7c7-3c63-a655-d12b203cb9df",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Brothers: A Tale of Two Sons",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000016192",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"13.49",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/hungry-baby-party-treats-switch",
+               "title":"Hungry Baby: Party Treats",
+               "description":"Hungry Baby: Party Treats is a funny and innovative local multiplayer game that can be played by up to 4 players.\nAs we all know, a hungry baby is an angry baby. So hurry up, after all, you are a delicious treat and your fate is to end up in a child’s tummy. You’ll encounter murderous obstacles and traps on your way, but every fail and act of greediness gets you closer to victory!\n\nThe gameplay stands out from other party games and offers:\n\n● A unique &quot;Try, die, repeat&quot; recipe with Risks VS Rewards ingredients\n\n● Diverse cooperative modes &amp; a delightful campaign mode\n\n● Wide range of characters and special abilities to choose from\n\nGather with your friends on the couch for hours of fun. Discover a unique take on party games.",
+               "lastModified":1558113070465,
+               "nsuid":"70010000020095",
+               "slug":"hungry-baby-party-treats-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/h/hungry-baby-party-treats-switch/Switch_HungryBabyPartyTreats_box_eShop.png",
+               "gallery":"5wNzB0aDE6zQLYTnVOK60I_LOUNGAfPr",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-24T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Board Game",
+                  "Multiplayer",
+                  "Party",
+                  "Puzzle"
+               ],
+               "msrp":4.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+                  "Mild Fantasy Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+                  "3+",
+                  "2+",
+                  "1+"
+               ],
+               "publishers":[
+                  "QubicGames"
+               ],
+               "developers":[
+                  "Digital Melody"
+               ],
+               "players":"up to 4 players",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$0 - $4.99",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"7803920b-67d9-381f-970d-6f61a62781dd",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Hungry Baby: Party Treats",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000020095",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/wonder-boy-returns-remix-switch",
+               "title":"WONDER BOY RETURNS REMIX",
+               "description":"&quot;Wonder Boy&quot; was an arcade hit back in 1986, with its intuitive controls and polished game balance.\nThis forever famous sidescrolling action game has been remixed and reborn for Nintendo Switch!\nJoin the adventure of a boy who's doing his best to save his girlfriend Tina -- updated with high-def anime-inspired visuals!\n\nA new feature called the &quot;Charge Shot&quot; has been added to this latest incarnation, allowing you to destroy enemies with a gigantic stone axe!\n\nWe hope you'll enjoy &quot;Wonder Boy Returns Remix,&quot; which has been not just faithfully reproduced, but in fact rearranged and greatly improved by Ryuichi Nishizawa.",
+               "lastModified":1558113070465,
+               "nsuid":"70010000018263",
+               "slug":"wonder-boy-returns-remix-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/w/wonder-boy-returns-remix-switch/Switch_WonderBoyReturnsRemix_box_eShop.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/w/wonder-boy-returns-remix-switch/screenshot-gallery/Switch_WonderBoyReturnsRemix_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-23T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Adventure",
+                  "Arcade"
+               ],
+               "msrp":14.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "CFK"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":null,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"cc96f274-7d70-36f1-9c68-e36878ef02f3",
+               "_highlightResult":{
+                  "title":{
+                     "value":"WONDER BOY RETURNS REMIX",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000018263",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/my-lovely-daughter-switch",
+               "title":"My Lovely Daughter",
+               "description":"My Lovely Daughter is a game about overcoming the loss of a loved one through forbidden alchemy experiments ... and murder. You are Faust, an amnesiac alchemist and father, who wakes up alone and confused only to discover that your lovely daughter has died. As you enter the first stages of grief, you do what everyone wishes they could do but can’t: bring back the dead with the power of alchemy.\nTo revive your daughter, you must perform forbidden alchemy experiments to restore her soul. You will have to create dozens of homunculi, raise them as if they were your own daughter, build relationships with them ... and then murder them to harvest their souls!\n\nTo support your experiments, you will also need to assign jobs to your homunculi, even sacrifice their bodies in order to sell their remnants, all to keep your income flowing and your research progressing. Perhaps, along the way, you will even recover your own memories and come to understand how this terrible situation came about.\n\nFeatures:\n\n- A dark, twisted story about love and family\n- Dozens of “daughters” to raise, each with their own traits and characteristics\n- Simulation-based gameplay that directly impacts the story\n- Unique art style emphasizing the dark theme of the game\n- High replay value with multiple endings, secrets to unlock, and letters to collect\n- Gothic-style soundtrack inspired by the immersive world of My Lovely Daughter",
+               "lastModified":1558372123710,
+               "nsuid":"70010000017331",
+               "slug":"my-lovely-daughter-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/m/my-lovely-daughter-switch/Switch_MyLovelyDaughter_box_eShop.png",
+               "gallery":"YyODB0aDE6T7-czdchFgUrUKn0M9G-sw",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-23T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure",
+                  "Simulation"
+               ],
+               "msrp":14.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Blood",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Toge Productions"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$5 - $9.99",
+               "salePrice":9.99,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"93cc7a4f-2759-384b-af13-8c3ea114ed61",
+               "_highlightResult":{
+                  "title":{
+                     "value":"My Lovely Daughter",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000017331",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"9.99",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/star-sky-switch",
+               "title":"Star Sky",
+               "description":"Star Sky is a unique and personable experience. From the first moment that you step into the game, you become the narrator of a methodically slow-paced story you choose to weave with every step. Those who rush from start to finish will miss all the secrets and choices woven into the world: you must learn to be patient. Audio cues and blink-of-an-eye visuals will let you know when the magic is about to occur, be sure not to miss it!\nGoodnight, and may you find what you're seeking beneath the stars.",
+               "lastModified":1558113070465,
+               "nsuid":"70010000019919",
+               "slug":"star-sky-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/s/star-sky-switch/Switch_StarSky_box_eShop.png",
+               "gallery":"V0ZHBzaDE6Wge12YNqI5rU9t483oCWV_",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-23T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure"
+               ],
+               "msrp":4.99,
+               "esrb":"Everyone",
+               "esrbDescriptors":[
+
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Active Gaming Media"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$0 - $4.99",
+               "salePrice":2.49,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"80de746a-3494-3997-961a-e154a428e848",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Star Sky",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000019919",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"2.49",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/heroine-anthem-zero-episode-1-switch",
+               "title":"HEROINE ANTHEM ZERO episode 1",
+               "description":"With a emotionally resonating soundtrack and beautiful visual art style, Heroine Anthem Zero is the FIRST EPISODE in an epic fantasy adventure game from WindThunder Studio.&nbsp;\nAn unforgettable experience that blends storytelling, music and stunning visuals, it is over ten years in the making. Come and enter the moving world of adventure from long ago.\nThe story begins with the last Cataclysm, with the descendants of the Savior rebuilding the land around the World Tree Terasyr. Thousands of years later the Engora Dynasty grows into prosperity, with Fae and Human together resisting the encroaching advances of evil from the edges of the world, and deathly Longhorn Woods.\n\nAs fate brings Wanin the Forest Keeper and the wandering cat-girl Shama Kutami together, the entangling web of destinies unfolds. In a world unforgiven by God, their fight for survival unknowingly bears the weight and sins of thousands of generations hereafter.\n&nbsp;\nKey Features\n1. Available in English for the first time! Heroine Anthem Zero is the first game in the series to support English!\n\n2. Featuring well-known Voice Actors in various languages, including Yūsuke Kobayashi (The Heroic Legend of Arslan) and Tomoka Wakabayashi (The iDOLM@STER)\n3. Exquisitely detailed 2D visuals, bring the world of Heroine Anthem Zero to life with its vibrant characters and stunning world setting.\n4. A hauntingly beautiful soundtrack, following in the tradition of the Heroine Anthem series: famous composers (known for their work in RPG classics such as Chinese Paladin series) as well as Japanese composers new to the series have joined forces to produce unforgettable music.\n5. Weapons and skills -- Character progression is closely tied to the weapon and items in Heroine Anthem Zero, switching weapons changes damage and other attributes,as well as attack motions. Weapons can also interact with the stage levels.\n6. Explore carefully crafted side-scrolling maps and dungeons, solve interactive puzzles and discover hidden treasure locations for powerful items.",
+               "lastModified":1558113070465,
+               "nsuid":"70010000003849",
+               "slug":"heroine-anthem-zero-episode-1-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/h/heroine-anthem-zero-episode-1-switch/Switch_HeroineAnthemZero_box_eShop.png",
+               "gallery":"50NzB0aDE6IEA8J05_xczgqbIblE2kMo",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-23T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Action",
+                  "Adventure",
+                  "Role-Playing"
+               ],
+               "msrp":12.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Blood",
+                  "Language",
+                  "Partial Nudity",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+                  "Deals"
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Winking"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":11.69,
+               "availability":[
+                  "Pre-purchase",
+                  "Coming soon"
+               ],
+               "objectID":"4e993c87-859c-397a-b954-368b72eca264",
+               "_highlightResult":{
+                  "title":{
+                     "value":"HEROINE ANTHEM ZERO episode 1",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000003849",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "salePrice":{
+                     "value":"11.69",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/the-last-door-complete-edition-switch",
+               "title":"The Last Door - Complete Edition",
+               "description":"Feel what it’s truly like to be alone in the dark with this low-res, high-suspense point-and-click horror adventure, winner of multiple Best Games of the Year awards.\nSet in Victorian England, when Jeremiah Devitt receives a letter from his old schoolmate Anthony Beechworth with a hidden, cryptic message, he knows something is wrong.&nbsp;\n\nHis journey to an abandoned manor is only the beginning as he starts to remember a long-buried secret from his youth, discovering things man was not meant to know, and opening doors that should have remained closed…\n\nThe Last Door - Complete Edition includes eight terrifying episodes of occult and otherworldly horror inviting you to investigate Victorian England’s deepest, darkest secret. Featuring new scenes and puzzles, enhanced graphics, unlockable extras, and remastered sound.&nbsp;\n\nExplore ancient manors, decaying tenements, and twisting underground warrens with little but a lamp and magnifying glass to guide you.&nbsp;",
+               "lastModified":1558548526936,
+               "nsuid":"70010000014765",
+               "slug":"the-last-door-complete-edition-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/t/the-last-door-complete-edition-switch/Switch_TheLastDoor_box_eShop.png",
+               "gallery":"5mYTZ1aDE6XR81mMU-TmNYDyEFuqsxMi",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-22T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure",
+                  "Other",
+                  "Puzzle"
+               ],
+               "msrp":14.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Suggestive Themes",
+                  "Use of Drugs",
+                  "Violent References"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Plug In Digital"
+               ],
+               "developers":[
+                  "The Game Kitchen"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$10 - $19.99",
+               "salePrice":null,
+               "availability":[
+                  "New releases",
+                  "Available now"
+               ],
+               "objectID":"fa3e481f-ba41-30dd-b8e1-dd160378ba60",
+               "_highlightResult":{
+                  "title":{
+                     "value":"The Last Door - Complete Edition",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000014765",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/resident-evil-0-switch",
+               "title":"Resident Evil 0",
+               "description":"This entry in the Resident Evil series expands on and enriches the excitement and intrigue of the survival horror genre. Learn of the events that preceded the series' first game, and experience thrilling new gameplay systems as you alternate between its two playable characters to solve the mystery.\n&nbsp;\nIn 1998, the American town of Raccoon City has been host to a series of strange and grisly murders. Rebecca Chambers, a new member of the elite special forces team known as S.T.A.R.S., has been dispatched along with the other Bravo Team members to investigate. Her search leads her to a train which has stopped in the middle of the forest. Little does she know, that this train is bound only for the realm of nightmares...",
+               "lastModified":1558411708091,
+               "id":"qjcf-iHCiOsbiL_trwa_tInxGWqmcrCJ",
+               "nsuid":"70010000012850",
+               "slug":"resident-evil-0-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/r/resident-evil-0-switch/Switch_ResidentEvil0_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/r/resident-evil-0-switch/screenshot-gallery/Switch_ResidentEvil0_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-21T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure"
+               ],
+               "msrp":29.99,
+               "esrb":"Mature",
+               "esrbDescriptors":[
+                  "Blood and Gore",
+                  "Intense Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Capcom"
+               ],
+               "developers":[
+                  "Capcom"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":null,
+               "availability":[
+                  "New releases",
+                  "Available now"
+               ],
+               "objectID":"e8c9cb76-6b2b-3374-bee3-3934f01a50c8",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Resident Evil 0",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"qjcf-iHCiOsbiL_trwa_tInxGWqmcrCJ",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000012850",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/resident-evil-4-switch",
+               "title":"resident evil 4",
+               "description":"Ushering in a new phase in the Resident Evil franchise, this game focuses on the events following the dissolution of Umbrella Corporation. The pioneering over-the-shoulder camera perspective is a departure from the fixed-camera views found in earlier entries, allowing for unrivaled action gameplay which has been met with widespread critical acclaim.\n&nbsp;\nIn the wake of the completely unprecedented biological disaster of Raccoon City, the corporation exposed as the initiator of those atrocities, Umbrella, has been dissolved. Leon S. Kennedy, a survivor of the incident, has gone on to become a special agent in the direct employ of the president of the United States. The president's daughter has been kidnapped, and Leon has followed eyewitness reports to a cold village in Europe. In that village, a new intrigue awaits...",
+               "lastModified":1558559334513,
+               "id":"aArNl0dSy7gSnbbbcmD_V1v52t5IpRSd",
+               "nsuid":"70010000012858",
+               "slug":"resident-evil-4-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/r/resident-evil-4-switch/Switch_ResidentEvil4_box_eShop.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/r/resident-evil-4-switch/screenshot-gallery/Switch_ResidentEvil4_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-21T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure"
+               ],
+               "msrp":29.99,
+               "esrb":"Mature",
+               "esrbDescriptors":[
+                  "Blood and Gore",
+                  "Intense Violence",
+                  "Language"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Capcom"
+               ],
+               "developers":[
+                  "Capcom"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":null,
+               "availability":[
+                  "New releases",
+                  "Available now"
+               ],
+               "objectID":"a2a503d7-03e4-3844-be0b-55902519f318",
+               "_highlightResult":{
+                  "title":{
+                     "value":"resident evil 4",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"aArNl0dSy7gSnbbbcmD_V1v52t5IpRSd",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000012858",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/resident-evil-switch",
+               "title":"Resident Evil",
+               "description":"Hailed by many as a masterpiece, this remake of the first entry in the long-running Resident Evil series is now playable in HD. Experience true terror in this genre-launching survival horror classic.\n&nbsp;\nThe year is 1998. The Bravo Team of S.T.A.R.S., an elite special forces squad, has gone radio silent, and its Alpha Team has been dispatched to the forest on the outskirts of Raccoon City to investigate this mysterious disappearance. Attacked by bizarre and vicious dogs, alpha team members Chris and Jill manage to escape to a mysterious mansion in the middle of the forest. The horrors they encounter there are far greater than anyone might have foreseen...",
+               "lastModified":1558411708091,
+               "id":"zN5BVlWnw-ahsVsIdSdmlr5LHh3DgRPL",
+               "nsuid":"70010000012854",
+               "slug":"resident-evil-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/r/resident-evil-switch/Switch_ResidentEvil_box_eShop.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/r/resident-evil-switch/screenshot-gallery/Switch_ResidentEvil_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-21T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Adventure"
+               ],
+               "msrp":29.99,
+               "esrb":"Mature",
+               "esrbDescriptors":[
+                  "Blood and Gore",
+                  "Language",
+                  "Violence"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "Capcom"
+               ],
+               "developers":[
+                  "Capcom"
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$20 - $39.99",
+               "salePrice":null,
+               "availability":[
+                  "New releases",
+                  "Available now"
+               ],
+               "objectID":"69eddaa2-69b6-360b-ab13-7ea0592cf302",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Resident Evil",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "id":{
+                     "value":"zN5BVlWnw-ahsVsIdSdmlr5LHh3DgRPL",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000012854",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            },
+            {
+               "type":"game",
+               "locale":"en_US",
+               "url":"/games/detail/atelier-lulua-the-scion-of-arland-switch",
+               "title":"Atelier Lulua ~The Scion of Arland~",
+               "description":"Once again, the hands of the clock have begun to move...\nAnd the future of &quot;this world&quot; rests on the shoulders of a single girl.\n&nbsp;\nThe long awaited 4th installment of the popular &quot;Arland&quot; series that had begun with the &quot;Atelier Rorona&quot;!\nIn this new story, players will revisit the nostalgic world of Arland and embark on exciting journey of alchemy together with Rorona's daughter, Lulua.\n&nbsp;\nThe dream of this young girl living in the small town on the border of the Arland Republic is to overcome her legendary mother in the mastery of alchemy.\nUnravel the future that awaits her beyond the mystery of this &quot;ancient manuscript&quot; and join Lulua and her companions on a new adventure through Arland!",
+               "lastModified":1558422495146,
+               "nsuid":"70010000015811",
+               "slug":"atelier-lulua-the-scion-of-arland-switch",
+               "boxArt":"/content/dam/noa/en_US/games/switch/a/atelier-lulua-the-scion-of-arland-switch/Switch_AtelierLulua_box.png",
+               "gallery":"/content/dam/noa/en_US/games/switch/a/atelier-lulua-the-scion-of-arland-switch/screenshot-gallery/Switch_AtelierLulua_01.jpg",
+               "platform":"Nintendo Switch",
+               "releaseDateMask":"2019-05-21T00:00:00.000-07:00",
+               "characters":[
+
+               ],
+               "categories":[
+                  "Role-Playing"
+               ],
+               "msrp":59.99,
+               "esrb":"Teen",
+               "esrbDescriptors":[
+                  "Fantasy Violence",
+                  "Mild Language",
+                  "Mild Suggestive Themes",
+                  "Use of Alcohol"
+               ],
+               "virtualConsole":"na",
+               "generalFilters":[
+
+               ],
+               "filterShops":[
+                  "At retail",
+                  "On Nintendo.com"
+               ],
+               "filterPlayers":[
+
+               ],
+               "publishers":[
+                  "KOEI TECMO AMERICA"
+               ],
+               "developers":[
+                  "KOEI TECMO GAMES CO., LTD."
+               ],
+               "players":"1 player",
+               "featured":false,
+               "freeToStart":false,
+               "priceRange":"$40+",
+               "salePrice":null,
+               "availability":[
+                  "New releases",
+                  "Available now"
+               ],
+               "objectID":"3239bc5a-95cb-3d53-8609-14015136aee0",
+               "_highlightResult":{
+                  "title":{
+                     "value":"Atelier Lulua ~The Scion of Arland~",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  },
+                  "nsuid":{
+                     "value":"70010000015811",
+                     "matchLevel":"none",
+                     "matchedWords":[
+
+                     ]
+                  }
+               }
+            }
+         ],
+         "nbHits":947,
+         "page":0,
+         "nbPages":23,
+         "hitsPerPage":42,
+         "processingTimeMS":1,
+         "facets":{
+            "esrb":{
+               "Everyone":335,
+               "Everyone 10+":268,
+               "Teen":265,
+               "Mature":79
+            },
+            "platform":{
+               "Nintendo Switch":947
+            },
+            "categories":{
+               "Action":482,
+               "Adventure":358,
+               "Arcade":324,
+               "Puzzle":210,
+               "Platformer":194,
+               "Role-Playing":149,
+               "Multiplayer":125,
+               "Strategy":113,
+               "Simulation":100,
+               "Party":95,
+               "Fighting":84,
+               "First-Person":70,
+               "Other":66,
+               "Sports":66,
+               "Racing":50,
+               "Music":28,
+               "Education":22,
+               "Lifestyle":13,
+               "Study":6,
+               "Board Game":4,
+               "Practical":2,
+               "Shooter":2,
+               "Training":2,
+               "Utility":2,
+               "Updates":1,
+               "Video":1
+            },
+            "characters":{
+               "Mario":19,
+               "Metroid":9,
+               "Mii":3,
+               "Pokémon":3,
+               "Zelda":3,
+               "Donkey Kong":1,
+               "Kirby":1
+            },
+            "priceRange":{
+               "$5 - $9.99":300,
+               "$10 - $19.99":298,
+               "$0 - $4.99":165,
+               "$20 - $39.99":107,
+               "$40+":68,
+               "Free to start":6
+            },
+            "filterShops":{
+               "On Nintendo.com":947,
+               "At retail":158
+            },
+            "availability":{
+               "Available now":930,
+               "New releases":18,
+               "Coming soon":17,
+               "Pre-purchase":16
+            },
+            "filterPlayers":{
+               "1+":444,
+               "2+":213,
+               "3+":209,
+               "4+":61
+            },
+            "generalFilters":{
+               "Deals":179,
+               "Online Play via Nintendo Switch Online":133,
+               "Demo available":96,
+               "DLC available":88
+            },
+            "virtualConsole":{
+               "na":947
+            }
+         },
+         "exhaustiveFacetsCount":true,
+         "exhaustiveNbHits":true,
+         "query":"",
+         "params":"query=&hitsPerPage=42&maxValuesPerFacet=30&page=0&facets=%5B%22generalFilters%22%2C%22platform%22%2C%22availability%22%2C%22categories%22%2C%22filterShops%22%2C%22virtualConsole%22%2C%22characters%22%2C%22priceRange%22%2C%22esrb%22%2C%22filterPlayers%22%5D&tagFilters=&facetFilters=%5B%5B%22filterShops%3AOn%20Nintendo.com%22%5D%2C%5B%22platform%3ANintendo%20Switch%22%5D%5D",
+         "index":"noa_aem_game_en_us"
+      },
+      {
+         "hits":[
+            {
+               "objectID":"b7995f41-31fb-3947-b128-4b322f0b07d0"
+            }
+         ],
+         "nbHits":2169,
+         "page":0,
+         "nbPages":1000,
+         "hitsPerPage":1,
+         "processingTimeMS":1,
+         "facets":{
+            "filterShops":{
+               "On Nintendo.com":947,
+               "At retail":288
+            }
+         },
+         "exhaustiveFacetsCount":true,
+         "exhaustiveNbHits":true,
+         "query":"",
+         "params":"query=&hitsPerPage=1&maxValuesPerFacet=30&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&facets=filterShops&facetFilters=%5B%5B%22platform%3ANintendo%20Switch%22%5D%5D",
+         "index":"noa_aem_game_en_us"
+      },
+      {
+         "hits":[
+            {
+               "objectID":"94778adc-04b5-3273-b80f-48f254056a89"
+            }
+         ],
+         "nbHits":2915,
+         "page":0,
+         "nbPages":1000,
+         "hitsPerPage":1,
+         "processingTimeMS":1,
+         "facets":{
+            "platform":{
+               "Nintendo 3DS":1063,
+               "Nintendo Switch":947,
+               "Wii U":904
+            }
+         },
+         "exhaustiveFacetsCount":true,
+         "exhaustiveNbHits":true,
+         "query":"",
+         "params":"query=&hitsPerPage=1&maxValuesPerFacet=30&page=0&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&facets=platform&facetFilters=%5B%5B%22filterShops%3AOn%20Nintendo.com%22%5D%5D",
+         "index":"noa_aem_game_en_us"
+      }
+   ]
+}
