@@ -1,0 +1,3662 @@
+[
+  {
+    "game": "#Breakforcist Battle", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "#KILLALLZOMBIES", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "1-2-Switch", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "10 Second Run RETURNS", 
+    "price": "$6.54"
+  }, 
+  {
+    "game": "1001 Ultimate Mahjong 2", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "12 orbits", 
+    "price": "$1.99"
+  }, 
+  {
+    "game": "1979 Revolution: Black Friday", 
+    "price": "$3.59$11.99"
+  }, 
+  {
+    "game": "36 Fragments of Midnight", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "3D MiniGolf", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "60 Seconds!", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "7 Billion Humans", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "88 Heroes - 98 Heroes Edition", 
+    "price": "$14.97$29.95"
+  }, 
+  {
+    "game": "911 Operator", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "99Moves", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "99Seconds", 
+    "price": "$1.49$2.99"
+  }, 
+  {
+    "game": "A Case of Distrust", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "A Ch'ti Bundle", 
+    "price": "$15.99"
+  }, 
+  {
+    "game": "A Normal Lost Phone", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "ACA NEOGEO 2020 SUPER BASEBALL", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO AERO FIGHTERS 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO ALPHA MISSION II", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO ART OF FIGHTING", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO ART OF FIGHTING 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO ART OF FIGHTING 3", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO BLAZING STAR", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO BLUE'S JOURNEY", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO BURNING FIGHT", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO FATAL FURY", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO FATAL FURY 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO FATAL FURY 3", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO FATAL FURY SPECIAL", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO GAROU: MARK OF THE WOLVES", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO KARNOV'S REVENGE", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO KING OF THE MONSTERS", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO LAST RESORT", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO MAGICAL DROP II", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO MAGICAL DROP III", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO MAGICIAN LORD", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO METAL SLUG", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO METAL SLUG 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO METAL SLUG 3", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO METAL SLUG X", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO MUTATION NATION", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO NAM-1975", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO NEO TURF MASTERS", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO OVER TOP", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO POWER SPIKES II", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO PULSTAR", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO PUZZLED", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO ROBO ARMY", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SAMURAI SHODOWN", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SAMURAI SHODOWN II", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SAMURAI SHODOWN IV", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SENGOKU", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SHOCK TROOPERS", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SHOCK TROOPERS 2nd Squad", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SOCCER BRAWL", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SPIN MASTER", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO STREET HOOP", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO SUPER SIDEKICKS", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE KING OF FIGHTERS '94", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE KING OF FIGHTERS '95", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE KING OF FIGHTERS '96", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE KING OF FIGHTERS '98", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE KING OF FIGHTERS '99", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE KING OF FIGHTERS 2000", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO THE LAST BLADE", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO TOP HUNTER RODDY & CATHY", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO WAKU WAKU 7", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO WORLD HEROES", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO WORLD HEROES 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO WORLD HEROES PERFECT", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACA NEOGEO ZED BLADE", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ACORN Tactics", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "AQUA KITTY UDX", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "ARMS", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "ASCENDANCE", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "ATOMIK: RunGunJumpGun", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ATOMINE", 
+    "price": "$3.99$9.99"
+  }, 
+  {
+    "game": "AWAY: Journey to the Unexpected", 
+    "price": "$16.99"
+  }, 
+  {
+    "game": "Abyss", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Ace of Seafood", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Aces of the Luftwaffe - Squadron", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Adventure Time: Pirates of the Enchiridion", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Aegis Defenders", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "AeternoBlade", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Agatha Knife", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Aggelos", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Air Mail", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Airheart - Tales of broken Wings", 
+    "price": "$17.99"
+  }, 
+  {
+    "game": "Alchemic Jousts", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "All-Star Fruit Racing", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Almightree: The Last Dreamer", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Alvastia Chronicles", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Alwa's Awakening", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Ambition of the Slimes", 
+    "price": "$5.00"
+  }, 
+  {
+    "game": "American Ninja Warrior: Challenge", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Among the Sleep - Enhanced Edition", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Angels of Death", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "AngerForce: Reloaded for Nintendo Switch", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Anima: Gate of Memories - The Nameless Chronicles", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Anima: Gate of Memories: Arcane Edition", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Anodyne", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Another Lost Phone: Laura's Story", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Antiquia Lost", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Ape Out", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Aqua TV", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Aragami: Shadow Edition", 
+    "price": "$20.99$29.99"
+  }, 
+  {
+    "game": "Arcade Archives DOUBLE DRAGON", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Arcade Archives HEROIC EPISODE", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Arcade Archives Kid Niki Radical Ninja", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Arcade Archives Mario Bros.", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Arcade Archives Traverse USA", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Arcade Archives VS. SUPER MARIO BROS.", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Armello", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Asdivine Hearts II", 
+    "price": "$9.09$12.99"
+  }, 
+  {
+    "game": "Assault Android Cactus+", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Astro Bears Party", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Astro Duel Deluxe", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Astrology and Horoscopes Premium", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "At Sundown: Shots in the Dark", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Attack on Titan 2", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Awesome Pea", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Axiom Verge", 
+    "price": "$17.99$19.99"
+  }, 
+  {
+    "game": "Azkend 2: The World Beneath", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Azure Saga: Pathfinder DELUXE Edition", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Azure Striker GUNVOLT: STRIKER PACK", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "BAFL - Brakes Are For Losers", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "BATTLLOON", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "BLAZBLUE CENTRALFICTION Special Edition", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "BOOST BEAST", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "BRAWL", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "BUTCHER", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Back to Bed", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Balance Blox", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Banner Saga 1", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Banner Saga 3", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Bard's Gold - Nintendo Switch Edition", 
+    "price": "$5.84$8.99"
+  }, 
+  {
+    "game": "Baseball Riot", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Bass Pro Shops: The Strike - Championship Edition", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Bastion", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Batman - The Telltale Series", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Battle Chef Brigade", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Bayonetta", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Bayonetta 2 - Digital Version", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Beach Buggy Racing", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Beat Cop", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Behind The Screen", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Ben 10", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Big Buck Hunter Arcade", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Binaries", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Black Hole", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Black The Fall", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Black and White Bushido", 
+    "price": "$13.00"
+  }, 
+  {
+    "game": "Blade Strangers", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Blaster Master Zero", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Bleed", 
+    "price": "$3.59$11.99"
+  }, 
+  {
+    "game": "Bleep Bloop", 
+    "price": "$2.79$3.99"
+  }, 
+  {
+    "game": "BlobCat", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Block-a-Pix Deluxe", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Blood Waves", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Bloody Zombies", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Blossom Tales: The Sleeping King", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Blue Rider", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Bomb Chicken", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Bombing Busters", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Bombslinger", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Bonds of the Skies", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Bouncy Bob", 
+    "price": "$1.00"
+  }, 
+  {
+    "game": "Bow to Blood: Last Captain Standing", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Box Align", 
+    "price": "$1.99"
+  }, 
+  {
+    "game": "Brave Dungeon + Dark Witch Story:COMBAT", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "Braveland Trilogy", 
+    "price": "$9.74$14.99"
+  }, 
+  {
+    "game": "Brawlout", 
+    "price": "$9.99$19.99"
+  }, 
+  {
+    "game": "Bridge Constructor Portal", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Bulb Boy", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "Burly Men at Sea", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Bury me, my Love", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "CELESTE", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Cabela's: The Hunt - Championship Edition", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Cake Laboratory", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Capcom Beat 'Em Up Bundle", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Captain Toad: Treasure Tracker", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Cars 3: Driven to Win", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Cartoon Network: Battle Crashers", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Cat Quest", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Cattails", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Cave Story+", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Caveblazers", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Caveman Warriors", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Chalk Dash Carnival", 
+    "price": "$7.09"
+  }, 
+  {
+    "game": "Chess Ultra", 
+    "price": "$12.49"
+  }, 
+  {
+    "game": "Chocobo's Mystery Dungeon EVERY BUDDY!", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "ChromaGun", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Chronus Arc", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "City of Brass", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Civilization VI", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Clue: The Classic Mystery Game", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Collidalot", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Conga Master Party!", 
+    "price": "$2.48$9.95"
+  }, 
+  {
+    "game": "Cook, Serve, Delicious! 2!!", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Cosmic Star Heroine", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Crash Bandicoot N. Sane Trilogy", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Crawl", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Crayola Scoot", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Creepy Road", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Crimson Keep", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Crimsonland", 
+    "price": "$13.99"
+  }, 
+  {
+    "game": "Croixleur Sigma", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Crush Your Enemies!", 
+    "price": "$8.00"
+  }, 
+  {
+    "game": "Crypt of the NecroDancer: Nintendo Switch Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Cuphead", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Cursed Castilla", 
+    "price": "$13.99"
+  }, 
+  {
+    "game": "Cycle 28", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "DEEMO", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "DELTARUNE Chapter 1", 
+    "price": NaN
+  }, 
+  {
+    "game": "DOOM", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "DRAGON BALL FIGHTERZ - Open Beta", 
+    "price": NaN
+  }, 
+  {
+    "game": "DRAGON BALL Xenoverse 2 for Nintendo Switch", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "DYING: Reborn - Nintendo Switch Edition", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Dandara", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Dark Witch Music Episode: Rudymical", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Darkest Dungeon", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "De Mambo", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Dead Synchronicity: Tomorrow Comes Today", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Death Road to Canada", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Death Squared", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Deep Ones", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Defense Grid 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Defunct", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Destiny's Princess: A War Story, A Love Story", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Detective Gallo", 
+    "price": "$5.99$14.99"
+  }, 
+  {
+    "game": "Detention", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Dexteritrip", 
+    "price": "$1.99$6.99"
+  }, 
+  {
+    "game": "Die for Valhalla!", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Dimension Drive", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Disc Jam", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Disco Dodgeball - REMIX", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Disease -Hidden Object-", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Disgaea 5 Complete", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Don't Knock Twice", 
+    "price": "$12.49"
+  }, 
+  {
+    "game": "Donkey Kong Country: Tropical Freeze", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Doodle God: Evolution", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Double Cross", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Double Dragon 4", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Dragon Marked for Death: Advanced Attackers", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Dragon Marked for Death: Frontline Fighters", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Dragon Quest Builders", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Dragon Sinker", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Dragon's Dogma: Dark Arisen", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "DragonFangZ - The Rose & Dungeon of Time", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Draw a Stickman: EPIC 2", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Dream Alone", 
+    "price": "$2.99$9.99"
+  }, 
+  {
+    "game": "DreamWorks Dragons Dawn of New Riders", 
+    "price": "$23.99$39.99"
+  }, 
+  {
+    "game": "Drift Legends", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Drowning", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Duck Game", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Dungeon Rushers", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Dustoff Heli Rescue 2", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "EARTH WARS", 
+    "price": "$4.50"
+  }, 
+  {
+    "game": "ESCAPE TRICK: 35 Fateful Enigmas", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Earth Atlantis", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Elliot Quest", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Embers of Mirrim", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Energy Balance", 
+    "price": "$1.01$2.99"
+  }, 
+  {
+    "game": "Energy Cycle", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Energy Invasion", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Enter the Gungeon", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Epic Loon", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Escape Doodland", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Ethan: Meteor Hunter", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Event Horizon", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Everspace - Stellar Edition", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Everything", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Evoland Legendary Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "FANTASY HERO ~unsigned legacy~", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "FIFA 18", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "FIFA 19", 
+    "price": "$14.99$59.99"
+  }, 
+  {
+    "game": "FINAL FANTASY VII", 
+    "price": "$15.99"
+  }, 
+  {
+    "game": "FRAMED Collection", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Fairune Collection", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Farming Simulator Nintendo Switch Edition", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Fast RMX", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Fate/EXTELLA LINK", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Fate/EXTELLA: The Umbral Star", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Fe", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Fear Effect Sedna", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Figment", 
+    "price": "$9.99$19.99"
+  }, 
+  {
+    "game": "Fill-a-Pix: Phil's Epic Adventure", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Final Light, The Prison", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Fire Emblem Warriors", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Fishing Star World Tour", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Flat Heroes", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Flip Wars", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Flood of Light", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Floor Kids", 
+    "price": "$19.90"
+  }, 
+  {
+    "game": "Flowlines VS", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Food Truck Tycoon", 
+    "price": "$3.74$4.99"
+  }, 
+  {
+    "game": "Frederic 2: Evil Strikes Back", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Frederic: Resurrection of Music", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Freedom Planet", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "FruitFall Crush", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Funghi Explosion", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Furi", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "GALAK-Z: The Void: Deluxe Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "GRIP", 
+    "price": "$26.79$39.99"
+  }, 
+  {
+    "game": "GUNBARICH for Nintendo Switch", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "GUNBIRD for Nintendo Switch", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Gabbuchi", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Gal Metal", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Gal*Gun 2", 
+    "price": "$44.99"
+  }, 
+  {
+    "game": "Gaokao.Love.100Days", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Gear.Club Unlimited", 
+    "price": "$44.99"
+  }, 
+  {
+    "game": "Gekido Kintaro's Revenge", 
+    "price": "$9.89"
+  }, 
+  {
+    "game": "Ginger: Beyond the Crystal", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "GoNNER", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Goetia", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Golf Story", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Goosebumps The Game", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Gorogoa", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Grab the Bottle", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Graceful Explosion Machine", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Grand Prix Rock 'N Racing", 
+    "price": "$3.99$7.99"
+  }, 
+  {
+    "game": "Grand Prix Story", 
+    "price": "$12.00"
+  }, 
+  {
+    "game": "Green Game: TimeSwapper", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Guacamelee! 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Gunhouse", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Guns, Gore and Cannoli", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Hacky Zack", 
+    "price": "$2.49$9.99"
+  }, 
+  {
+    "game": "Halloween Pinball", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Hammerwatch", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Hand Of Fate 2", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Hard West", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Has Been Heroes", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Heart&Slash", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Hell Warders", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Hello Neighbor Hide and Seek", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Her Majesty's SPIFFING", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Heroes of the Monkey Tavern", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Hiragana Pixel Party", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "HoPiKo", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Hob: The Definitive Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Hover", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Hulu", 
+    "price": NaN
+  }, 
+  {
+    "game": "Human Resource Machine", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Human: Fall Flat", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Hunter's Legacy: Purrfect Edition", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Hyper Light Drifter - Special Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Hyper Sentinel", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Hyrule Warriors: Definitive Edition", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "I am Setsuna", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "I and Me", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "IMPLOSION", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "INFERNO CLIMBER: REBORN", 
+    "price": "$13.99"
+  }, 
+  {
+    "game": "INK", 
+    "price": "$2.69$8.99"
+  }, 
+  {
+    "game": "INSTANT TENNIS", 
+    "price": "$4.49$8.99"
+  }, 
+  {
+    "game": "INVERSUS Deluxe", 
+    "price": "$2.99$14.99"
+  }, 
+  {
+    "game": "IRONCAST", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Immortal Redneck", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "In Between", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Infinite Minigolf", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "InnerSpace", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Inside My Radio", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Iron Crypticle", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Island Flight Simulator", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "It's Spring Again", 
+    "price": "$1.99"
+  }, 
+  {
+    "game": "Ittle Dew 2+", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "JYDGE", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Jettomero: Hero of the Universe", 
+    "price": "$13.00"
+  }, 
+  {
+    "game": "Joe Dever's Lone Wolf", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Joggernauts", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade Joe and Mac Caveman Ninja", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Break Thru", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Express Raider", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Fighter's History", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Gate Of Doom", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Heavy Barrel", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Heavy Burger", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Joe and Mac Returns", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Night Slashers", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Shoot Out", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Sly Spy", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Super Burger Time", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Super Real Darwin", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Johnny Turbo's Arcade: Wizard Fire", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Jotun: Valhalla Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Just Dance 2017", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Just Dance\u00c2\u00ae 2018", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "KAMIKO", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Katana ZERO", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Keep Talking and Nobody Explodes", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Kentucky Robo Chicken", 
+    "price": "$2.49"
+  }, 
+  {
+    "game": "Kero Blaster", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Kid Tripp", 
+    "price": "$3.99"
+  }, 
+  {
+    "game": "King Oddball", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Kingdom: New Lands", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Kirby Star Allies", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Klondike Solitaire", 
+    "price": "$4.49$8.99"
+  }, 
+  {
+    "game": "Knight Terrors", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Knights of Pen & Paper 2 Deluxiest Edition", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Knights of Pen and Paper +1 Deluxier Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Knights of Pen and Paper Bundle", 
+    "price": "$22.49"
+  }, 
+  {
+    "game": "Koi DX", 
+    "price": "$5.00"
+  }, 
+  {
+    "game": "Koloro", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "L.A. Noire", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "LEGO DC Super-Villains", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "LEGO Harry Potter Collection", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "LEGO Worlds", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "LEGO\u00c2\u00ae CITY Undercover", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "LEGO\u00c2\u00ae Marvel Super Heroes 2", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "LEGO\u00c2\u00ae NINJAGO\u00c2\u00ae Movie Video Game", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "LEGO\u00c2\u00ae The Incredibles", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "LEGRAND LEGACY: Tale of the Fatebounds", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "LOST SPHEAR", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "LOVE", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "LUMINES REMASTERED", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Layers of Fear: Legacy", 
+    "price": "$9.99$19.99"
+  }, 
+  {
+    "game": "League of Evil", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Left-Right : The Mansion", 
+    "price": "$3.99"
+  }, 
+  {
+    "game": "Legendary Eleven", 
+    "price": "$5.99$9.99"
+  }, 
+  {
+    "game": "Letter Quest Remastered", 
+    "price": "$2.99$11.99"
+  }, 
+  {
+    "game": "Levels+ : Addictive Puzzle Game", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Lichtspeer: Double Speer Edition", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Lifeless Planet: Premiere Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Little Inferno", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Little Triangle", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Lost Phones Stories", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Lost Sea", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Lost in Harmony", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Lovers in a Dangerous Spacetime", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Lumo", 
+    "price": "$11.97$19.95"
+  }, 
+  {
+    "game": "Lyrica", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "M.A.C.E. Space Shooter", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "MEMBRANE", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "MIGHTY GUNVOLT BURST", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "MONOPOLY\u00c2\u00ae for Nintendo Switch", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "MUJO", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "MXGP3 - The Official Motocross Videogame", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Mad Carnage", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Mages of Mystralia", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Mana Spark", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Manticore - Galaxy on Fire", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Mantis Burn Racing", 
+    "price": "$6.99$19.99"
+  }, 
+  {
+    "game": "Maria The Witch", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Mario + Rabbids Kingdom Battle", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Mario Kart 8 Deluxe", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Mario Tennis Aces", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Mark of the Ninja: Remastered", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Max: The Curse of Brotherhood", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "MechaNika", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Mecho Tales", 
+    "price": "$0.99"
+  }, 
+  {
+    "game": "Mecho Wars: Desert Ashes", 
+    "price": "$0.99$9.99"
+  }, 
+  {
+    "game": "Mega Mall Story", 
+    "price": "$12.00"
+  }, 
+  {
+    "game": "Mega Man Legacy Collection", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Mega Man Legacy Collection 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Mega Man X Legacy Collection", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Mega Man X Legacy Collection 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Mega Man\u00c2\u00ae 11", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Mercenaries Saga Chronicles", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Mercenaries Wings: The False Phoenix", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Mercenary Kings Reloaded", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Mercury Race", 
+    "price": "$3.99$7.99"
+  }, 
+  {
+    "game": "Metropolis: Lux Obscura", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Miles & Kilo", 
+    "price": "$5.99$7.99"
+  }, 
+  {
+    "game": "Millie", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Minecraft: Nintendo Switch Edition - Digital Version", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Minecraft: Story Mode - The Complete Adventure", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Mom Hid My Game!", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Momonga Pinball Adventures", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Monster Boy and the Cursed Kingdom", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Monster Energy Supercross - The Official Videogame", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Monster Energy Supercross - The Official Videogame 2", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Monster Hunter Generations Ultimate", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Monster Jam Crush It!", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Moon Hunters", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Moonlighter", 
+    "price": "$14.99$24.99"
+  }, 
+  {
+    "game": "Moorhuhn Knights & Castles", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Morphite", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Mortal Kombat 11", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Moto Rush GT", 
+    "price": "$10.49$14.99"
+  }, 
+  {
+    "game": "Mr. Shifty", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Muddledash", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Mulaka", 
+    "price": "$19.98"
+  }, 
+  {
+    "game": "Mutant Mudds Collection", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "My Arctic Farm 2018", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "My Farm", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "My Time at Portia", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "NAMCO MUSEUM", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.)", 
+    "price": NaN
+  }, 
+  {
+    "game": "NBA 2K18", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "NBA 2K18 Legend Edition", 
+    "price": "$99.99"
+  }, 
+  {
+    "game": "NBA 2K18 Legend Edition Gold", 
+    "price": "$149.99"
+  }, 
+  {
+    "game": "NBA 2K19", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "NBA 2K19 20th Anniversary Edition", 
+    "price": "$99.99"
+  }, 
+  {
+    "game": "NBA Playgrounds - Enhanced Edition", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "NEKOPARA Vol.2", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "NO THING", 
+    "price": "$1.99"
+  }, 
+  {
+    "game": "NORTH", 
+    "price": "$1.79$2.99"
+  }, 
+  {
+    "game": "Neon Caves", 
+    "price": "$3.99"
+  }, 
+  {
+    "game": "Neon Chrome", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "NeuroVoider", 
+    "price": "$13.99"
+  }, 
+  {
+    "game": "Never Stop Sneakin'", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Neverout", 
+    "price": "$3.74$7.49"
+  }, 
+  {
+    "game": "New Frontier Days ~Founding Pioneers~", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "New Super Mario Bros. U Deluxe", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Nickelodeon Kart Racers", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Night Trap - 25th Anniversary Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Night in the Woods", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Nightmare Boy", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Nights of Azure 2: Bride of the New Moon", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Nightshade", 
+    "price": "$47.99"
+  }, 
+  {
+    "game": "Nihilumbra", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Nine Parchments", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Ninja Shodown", 
+    "price": "$8.97$14.95"
+  }, 
+  {
+    "game": "Ninja Village", 
+    "price": "$12.00"
+  }, 
+  {
+    "game": "Ninjin: Clash of Carrots", 
+    "price": "$7.49$14.99"
+  }, 
+  {
+    "game": "NoReload Heroes", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Nuclien", 
+    "price": "$3.99"
+  }, 
+  {
+    "game": "OF MICE AND SAND -REVISED-", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "OKAMI HD", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "OMG Zombies!", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "ONE PIECE: Unlimited World Red Deluxe Edition", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "OPUS: Rocket of Whispers", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "OPUS: The Day We Found Earth", 
+    "price": "$5.00"
+  }, 
+  {
+    "game": "OXENFREE", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Oceanhorn - Monster of Uncharted Seas", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Octahedron: Transfixed Edition", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Octodad: Dadliest Catch", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Odium to the Core", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Oh...Sir! The Hollywood Roast", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Oh...Sir! The Insult Simulator", 
+    "price": "$1.99"
+  }, 
+  {
+    "game": "Old Man's Journey", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Old School Musical", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Old School Racer 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Omensight: Definitive Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "One More Dungeon", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Othello", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Our World Is Ended.", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Outlast 2", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Outlast: Bundle of Terror", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Overcooked Special Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Overcooked! 2", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Owlboy", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "PAC-MAN CHAMPIONSHIP EDITION 2 PLUS", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "PAN-PAN A tiny big adventure", 
+    "price": "$5.00"
+  }, 
+  {
+    "game": "PAW Patrol: On a Roll!", 
+    "price": "$23.99$39.99"
+  }, 
+  {
+    "game": "PAYDAY 2", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "PICROSS S", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "POOL", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Packet Queen #", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Paladins - Founder's Pack", 
+    "price": NaN
+  }, 
+  {
+    "game": "Palm Reading Premium", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "Pankapu", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Paper Wars: Cannon Fodder Devastated", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Party Golf", 
+    "price": "$15.00"
+  }, 
+  {
+    "game": "Party Planet", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Perception", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Phantom Breaker: Battle Grounds Overdrive", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Phantom Trigger", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Phoenix Wright: Ace Attorney Trilogy", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Physical Contact: 2048", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Physical Contact: Picture Place", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Physical Contact: SPEED", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Pic-a-Pix Deluxe", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Pic-a-Pix Pieces", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Piczle Lines DX", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Pikuniku", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Pillar", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Pinball FX3", 
+    "price": NaN
+  }, 
+  {
+    "game": "Pinstripe", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Pirates Pinball", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Pitfall Planet", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Pizza Titan Ultra", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Plague Road", 
+    "price": "$0.99$15.00"
+  }, 
+  {
+    "game": "Planet RIX-13", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Plantera Deluxe", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Pocket Academy", 
+    "price": "$12.00"
+  }, 
+  {
+    "game": "Pode", 
+    "price": "$14.99$24.99"
+  }, 
+  {
+    "game": "Poi: Explorer Edition", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Pokk\u00c3\u00a9n Tournament DX", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Pok\u00c3\u00a9mon: Let's Go, Eevee!", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Pok\u00c3\u00a9mon: Let's Go, Pikachu!", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Poly Bridge", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Pool BILLIARD", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Pool Panic", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Portal Knights", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Premium Pool Arena", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Pressure Overdrive", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Putty Pals", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Puyo Puyo Tetris", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Puzzle Adventure Blockle", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Puzzle Box Maker", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Puzzle Puppers", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Puzzle Wall", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Qbics Paint", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Qbik", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Quest for the Golden Duck", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Quest of Dungeons", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "R.B.I. Baseball 17", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "R.B.I. Baseball 19", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "RIOT - Civil Unrest", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "RIVE: Ultimate Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "RXN -Raijin-", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Radiation Island", 
+    "price": "$6.99$9.99"
+  }, 
+  {
+    "game": "Raining Coins", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Rally Racers", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Rapala Fishing Pro Series", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Rayman\u00c2\u00ae Legends Definitive Edition", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Red Game Without a Great Name", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "RemiLore", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Rento Fortune Monolit", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Reptilian Rebellion", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Resident Evil", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Resident Evil 0", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Resident Evil Revelations", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Resident Evil Revelations 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Retro City Rampage DX", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Revenant Saga", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Revertia", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "RiME", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Riddled Corpses EX", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Riptide GP: Renegade", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Robonauts", 
+    "price": "$8.69"
+  }, 
+  {
+    "game": "Rock 'N Racing Off Road DX", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Rocket Fist", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Rocket League\u00c2\u00ae", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Rogue Trooper Redux", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Romancing SaGa 2", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Rotating Brave", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Runbow", 
+    "price": "$7.49$14.99"
+  }, 
+  {
+    "game": "Runner3", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "SEGA Genesis Classics", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "SENRAN KAGURA Reflexions", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "SNK HEROINES ~Tag Team Frenzy~", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "STEINS;GATE ELITE", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "STRIKERS1945 II for Nintendo Switch", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "STRIKERS1945 for Nintendo Switch", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "SUPERBEAT: XONiC", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Sally's Law", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Salt and Sanctuary", 
+    "price": "$17.99"
+  }, 
+  {
+    "game": "Samurai Aces for Nintendo Switch", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Samurai Defender: Ninja Warfare", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Santa Tracker", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Saturday Morning RPG", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Save the Ninja Clan", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Scribblenauts: Showdown", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Semispheres", 
+    "price": "$4.99$9.99"
+  }, 
+  {
+    "game": "Sephirothic Stories", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Serial Cleaner", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Severed", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Shadow Fight 2", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Shadowgate", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Shantae and the Pirate's Curse", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Shantae: Half-Genie Hero", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Shantae: Half-Genie Hero Ultimate Edition", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Shape of the World", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Shephy", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Shiftlings - Enhanced Edition", 
+    "price": "$15.00"
+  }, 
+  {
+    "game": "Shikhondo - Soul Eater", 
+    "price": "$4.75$13.99"
+  }, 
+  {
+    "game": "Shining Resonance Refrain", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Shovel Knight: Specter of Torment", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Shovel Knight: Treasure Trove", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Shu", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Siegecraft Commander", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Sigi - A Fart for Melusina", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Sine Mora EX", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Six Sides of the World", 
+    "price": "$10.00"
+  }, 
+  {
+    "game": "Sky Force Reloaded", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Sky Gamblers: Storm Raiders", 
+    "price": "$6.99$9.99"
+  }, 
+  {
+    "game": "Sky Ride", 
+    "price": "$7.00"
+  }, 
+  {
+    "game": "Sky Rogue", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "SkyScrappers", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "SlabWell: The Quest For Kaktun's Alpaca", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Slain: Back From Hell", 
+    "price": "$5.99$19.99"
+  }, 
+  {
+    "game": "Sleep Tight", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Slime-san", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Snake Pass", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Snake vs Snake", 
+    "price": "$3.59$3.99"
+  }, 
+  {
+    "game": "Snipperclips - Cut it out, together!", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Snow Battle Princess Sayuki", 
+    "price": "$15.00"
+  }, 
+  {
+    "game": "Snow Moto Racing Freedom", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Soldam: Drop, Connect, Erase", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Sonic Forces", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Sonic Mania", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "South Park: The Fractured But Whole", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Space Dave", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Space Ribbon", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Spacecats with Lasers", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Sparkle 2", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Sparkle 2 EVO", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Sparkle 3 Genesis", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Sparkle Unleashed", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Sparkle ZERO", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Spectrum", 
+    "price": "$2.99$11.99"
+  }, 
+  {
+    "game": "SpellKeeper", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Spellspire", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Spelunker Party!", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Spencer", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Spheroids", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Spintires: MudRunner - American Wilds", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "SpiritSphere DX", 
+    "price": "$10.00"
+  }, 
+  {
+    "game": "Splasher", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Splatoon 2", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Spot The Difference", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Squareboy vs Bullies: Arena Edition", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Star Ghost", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "Star Story: The Horizon Escape", 
+    "price": "$0.99$9.99"
+  }, 
+  {
+    "game": "Stardew Valley", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Starlink: Battle For Atlas Digital Edition", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Starman", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "State of Anarchy: Master of Mayhem", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "State of Mind", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "SteamWorld Dig", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "SteamWorld Dig 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "SteamWorld Heist: Ultimate Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Stellar Interface", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Steredenn: Binary Stars", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Stern Pinball Arcade", 
+    "price": NaN
+  }, 
+  {
+    "game": "Stick It to The Man", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "Stikbold! A Dodgeball Adventure DELUXE", 
+    "price": "$9.59$14.99"
+  }, 
+  {
+    "game": "Street Basketball", 
+    "price": "$4.19$5.99"
+  }, 
+  {
+    "game": "Street Fighter 30th Anniversary Collection", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Subsurface Circular", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "Sundered: Eldritch Edition", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Super Beat Sports\u00e2\u0084\u00a2", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Super Blackjack Battle 2 Turbo Edition - The Card Warriors", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Super Bomberman R", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Super Chariot", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Super Hero Fight Club: Reloaded", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Super Hyperactive Ninja", 
+    "price": "$8.99"
+  }, 
+  {
+    "game": "Super Mario Odyssey", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Super Mario Party", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Super Meat Boy", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Super One More Jump", 
+    "price": "$7.00"
+  }, 
+  {
+    "game": "Super Ping Pong Trick Shot", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Super Putty Squad", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Super Rock Blasters!", 
+    "price": "$13.99"
+  }, 
+  {
+    "game": "Super Smash Bros. Ultimate", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Super Toy Cars", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Superola and the Lost Burgers", 
+    "price": "$1.99$5.99"
+  }, 
+  {
+    "game": "Sushi Time!", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Switch 'N' Shoot", 
+    "price": "$4.59"
+  }, 
+  {
+    "game": "Sword of the Guardian", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Swords & Soldiers", 
+    "price": "$7.49"
+  }, 
+  {
+    "game": "Swords and Soldiers 2 Shawarmageddon", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Syberia", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Syberia 2", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "THE Card: Poker, Texas hold 'em, Blackjack and Page One", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "TINY METAL", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "TOUHOU SKY ARENA -MATSURI-CLIMAX", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Tachyon Project", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Tactical Mind", 
+    "price": "$2.99"
+  }, 
+  {
+    "game": "Tales of Vesperia: Definitive Edition", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Tales of the Tiny Planet", 
+    "price": "$11.99$14.99"
+  }, 
+  {
+    "game": "Tallowmere", 
+    "price": "$6.99"
+  }, 
+  {
+    "game": "Tardy", 
+    "price": "$3.99$9.99"
+  }, 
+  {
+    "game": "Tennis", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Tennis in the Face", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Teslagrad", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The Adventures of Elena Temple", 
+    "price": "$0.99$4.99"
+  }, 
+  {
+    "game": "The Amazing Shinsengumi: Heroes in Love", 
+    "price": "$11.99"
+  }, 
+  {
+    "game": "The Binding of Isaac: Afterbirth+", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "The Bridge", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "The Coma: Recut", 
+    "price": "$5.99$19.99"
+  }, 
+  {
+    "game": "The Count Lucanor", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The Darkside Detective", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "The Deer God", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "The Demon Crystal", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "The Elder Scrolls V: Skyrim\u00c2\u00ae", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "The End Is Nigh", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The Escapists 2", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Fall Part 2: Unbound", 
+    "price": "$16.99"
+  }, 
+  {
+    "game": "The Final Station", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Flame In The Flood: Complete Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The Gardens Between", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Jackbox Party Pack", 
+    "price": "$12.49$24.99"
+  }, 
+  {
+    "game": "The Jackbox Party Pack 2", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "The Jackbox Party Pack 3", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "The Jackbox Party Pack 4", 
+    "price": "$14.99$24.99"
+  }, 
+  {
+    "game": "The Keep", 
+    "price": "$17.99"
+  }, 
+  {
+    "game": "The King's Bird", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The LEGO Movie 2 Videogame", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "The Legend of Zelda: Breath of the Wild", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "The Liar Princess and the Blind Prince", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Lion's Song", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "The Long Reach", 
+    "price": "$3.74$14.99"
+  }, 
+  {
+    "game": "The Longest Five Minutes", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "The Mahjong Huntress", 
+    "price": "$0.49$4.99"
+  }, 
+  {
+    "game": "The Men of Yoshiwara: Kikuya", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Messenger", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Mooseman", 
+    "price": "$4.54$6.99"
+  }, 
+  {
+    "game": "The Mummy Demastered", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Mystery of Woolley Mountain", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "The Next Penelope", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "The Path of Motus", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The Sexy Brutale", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "The Shapeshifting Detective", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "The Stillness of the Wind", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "The Swindle", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The VideoKid", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "The Walking Vegetables: Radical Edition", 
+    "price": "$2.59$12.99"
+  }, 
+  {
+    "game": "The Warlock of Firetop Mountain: Goblin Scourge Edition!", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "The Way Remastered", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "The World Ends with You: Final Remix", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Thea: The Awakening", 
+    "price": "$17.99"
+  }, 
+  {
+    "game": "Thimbleweed Park", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Think of the Children", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "This Is the Police", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Thumper", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Tied Together", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Timberman VS", 
+    "price": "$1.99"
+  }, 
+  {
+    "game": "Time Recoil", 
+    "price": "$13.99"
+  }, 
+  {
+    "game": "Tiny Barbarian DX", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Tiny Troopers Joint Ops XL", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "ToeJam & Earl: Back in the Groove!", 
+    "price": "$14.99$19.99"
+  }, 
+  {
+    "game": "Toki Tori", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Toki Tori 2+: Nintendo Switch Edition", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Tokyo School Life", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "TorqueL -Physics Modified Edition-", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Totes the Goat", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "TouchBattleTankSP", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Touhou Kobuto V: Burst Battle", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Tower Of Babel", 
+    "price": "$5.99"
+  }, 
+  {
+    "game": "TowerFall", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Trailblazers", 
+    "price": "$17.99$29.99"
+  }, 
+  {
+    "game": "Transcripted", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Travis Strikes Again: No More Heroes", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Treadnauts", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Troll and I", 
+    "price": "$7.49$29.99"
+  }, 
+  {
+    "game": "Tr\u00c3\u00bcberbrook", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "TumbleSeed", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Tumblestone", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Twin Robots: Ultimate Edition", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Typoman", 
+    "price": "$6.49$12.99"
+  }, 
+  {
+    "game": "Tyr : Chains of Valhalla", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "UNO\u00c2\u00ae for Nintendo Switch", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "UTOPIA 9 - A Volatile Vacation", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "UglyDolls: An Imperfect Adventure", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Ultimate Chicken Horse", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Ultra Hyperball", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Ultra Street Fighter II: The Final Challengers", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Ultrawings", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Unbox: Newbie's Adventure", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Undead's Building", 
+    "price": "$3.99$5.99"
+  }, 
+  {
+    "game": "Undertale", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Unepic", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Unholy Heights", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Unit 4", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Unravel Two", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Unworthy", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Use Your Words", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Uurnog Uurnlimited", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "V.O.I.D.", 
+    "price": "$3.99"
+  }, 
+  {
+    "game": "VERTICAL STRIKE ENDLESS CHALLENGE", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "VOEZ", 
+    "price": "$25.00"
+  }, 
+  {
+    "game": "VSR: Void Space Racing", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "VVVVVV", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Vaccine", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Valkyria Chronicles 4", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Vaporum", 
+    "price": "$24.99"
+  }, 
+  {
+    "game": "Varion", 
+    "price": "$12.99"
+  }, 
+  {
+    "game": "Vegas Party", 
+    "price": "$21.99"
+  }, 
+  {
+    "game": "Venture Towns", 
+    "price": "$12.00"
+  }, 
+  {
+    "game": "Vertical Drop Heroes HD", 
+    "price": "$2.49$9.99"
+  }, 
+  {
+    "game": "Vesta", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Violett", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Volgarr the Viking", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Vostok Inc.", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Vroom in the Night Sky", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "WWE 2K18", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Wanderjahr TryAgainOrWalkAway", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Wandersong", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Western 1849 Reloaded", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Wheels of Aurelia", 
+    "price": "$3.99$9.99"
+  }, 
+  {
+    "game": "Where Are My Friends?", 
+    "price": "$1.01$5.99"
+  }, 
+  {
+    "game": "White Night", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Windscape", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Wizard of Legend", 
+    "price": "$15.99"
+  }, 
+  {
+    "game": "Wolfenstein II: The New Colossus", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Wonder Boy: The Dragon's Trap", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Wondershot", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Woodle Tree Adventures", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Word Puzzles by POWGI", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Word Search by POWGI", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "Word Sudoku by POWGI", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "World Conqueror X", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "World of Goo", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "World to the West", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Worms W.M.D", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Wulverblade", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "X-Morph: Defense", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Xenoblade Chronicles 2", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Xenon Racer", 
+    "price": "$49.99"
+  }, 
+  {
+    "game": "Xenon Valkyrie+", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Xenoraid", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Xeodrifter", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "Xtreme Club Racing", 
+    "price": "$9.89"
+  }, 
+  {
+    "game": "Y\u00c5\u008ddanji", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "YIIK: A Postmodern RPG", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "YUMENIKKI -DREAM DIARY-", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Yet Another Zombie Defense HD", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Yoku's Island Express", 
+    "price": "$19.99"
+  }, 
+  {
+    "game": "Yonder: The Cloud Catcher Chronicles", 
+    "price": "$29.99"
+  }, 
+  {
+    "game": "Yono and the Celestial Elephants", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Yooka-Laylee", 
+    "price": "$39.99"
+  }, 
+  {
+    "game": "Yoshi's Crafted World", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "Ys VIII: Lacrimosa of DANA", 
+    "price": "$59.99"
+  }, 
+  {
+    "game": "ZERO GUNNER 2- for Nintendo Switch", 
+    "price": "$7.99"
+  }, 
+  {
+    "game": "ZOMBIE GOLD RUSH", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "Zombie Night Terror", 
+    "price": "$14.99"
+  }, 
+  {
+    "game": "Zombillie", 
+    "price": "$4.99"
+  }, 
+  {
+    "game": "forma.8", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "planetarian", 
+    "price": "$9.99"
+  }, 
+  {
+    "game": "resident evil 4", 
+    "price": "$29.99"
+  }
+]
